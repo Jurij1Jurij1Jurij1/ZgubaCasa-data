@@ -1,5 +1,5 @@
 {
-  "pos_podatkov(Y/N)": "N",
+  "ver_podatkov": "1",
   "url_dejstva": "https://raw.githubusercontent.com/uporabnik/repo/main/dejstva.json",
   "naj_verzija_app": 1,
   "url_update": "ne.obstaja.še",
