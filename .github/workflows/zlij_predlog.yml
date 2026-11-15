@@ -1,0 +1,69 @@
+name: Združi UGC predlog v dejstva.json
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'predlogi/*.json'
+
+jobs:
+  obdelaj-predlog:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Prenesi repozitorij
+        uses: actions/checkout@v4
+
+      - name: Obdelaj in dodaj v dejstva.json
+        run: |
+          python3 - << 'EOF'
+          import json
+          import glob
+          import os
+
+          predlogi_datoteke = glob.glob("predlogi/*.json")
+          if not predlogi_datoteke:
+              print("Ni novih predlogov za obdelavo.")
+              exit(0)
+
+          with open("dejstva.json", "r", encoding="utf-8") as f:
+              dejstva = json.load(f)
+
+          max_id = max((item.get("id", 0) for item in dejstva), default=0)
+          nov_id = max_id + 1
+
+          obdelana_vsaj_ena = False
+
+          for p_path in predlogi_datoteke:
+              with open(p_path, "r", encoding="utf-8") as pf:
+                  predlog_data = json.load(pf)
+              
+              vsebina = predlog_data.get("vsebina", "").strip()
+              if not vsebina:
+                  continue
+
+              novo_dejstvo = {
+                  "id": nov_id,
+                  "vsebina": vsebina,
+                  "kategorija": "UGC"
+              }
+              dejstva.append(novo_dejstvo)
+              nov_id += 1
+              obdelana_vsaj_ena = True
+
+              os.remove(p_path)
+              print(f"Obdelano in izbrisano: {p_path}")
+
+          if obdelana_vsaj_ena:
+              with open("dejstva.json", "w", encoding="utf-8") as f:
+                  json.dump(dejstva, f, ensure_ascii=False, indent=2)
+              print("Datoteka dejstva.json je bila uspešno posodobljena.")
+          EOF
+
+      - name: Potrdi in objavi spremembe na GitHub
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Avtomatska združitev UGC predloga v dejstva.json"
+          branch: main
