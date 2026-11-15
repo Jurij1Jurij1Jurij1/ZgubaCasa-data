@@ -199,565 +199,2814 @@
     "vsebina": "Ali veš, da je bila Rusija prva država, ki je v vesolje poslala živo bitje? Psica Lajka je leta 1957 poletela s satelitom Sputnik 2 in postala svetovna ikona.",
     "kategorija": "Zgodovina"
   },
-  {"id": 41, "vsebina": "Ali veš, da hobotnica ima tri srca, ker dve srci poganjata kri skozi škrge, tretje pa skozi preostanek telesa?", "kategorija": "Živali"},
-  {"id": 42, "vsebina": "Si vedel, da med nikoli ne poteče, ker vsebuje zelo malo vode in bakterije v njem težko preživijo?", "kategorija": "Hrana"},
-  {"id": 43, "vsebina": "Neverjetno, da banane sodijo med jagodičevje, ker rastejo iz enega samega cveta z več semeni.", "kategorija": "Narava"},
-  {"id": 44, "vsebina": "Ali veš, da pingvini predlagajo partnerju kamenček, ker z njim pomagajo graditi gnezdo?", "kategorija": "Živali"},
-  {"id": 45, "vsebina": "Si vedel, da Eiffelov stolp poleti zraste za nekaj centimetrov, ker se kovina pri vročini razširi?", "kategorija": "Zgodovina"},
-  {"id": 46, "vsebina": "Neverjetno, da je vesolje popolnoma tiho, ker zvok potrebuje zrak za širjenje.", "kategorija": "Vesolje"},
-  {"id": 47, "vsebina": "Ali veš, da krokodili ne morejo iztegniti jezika, ker je pritrjen na spodnji del ust?", "kategorija": "Živali"},
-  {"id": 48, "vsebina": "Si vedel, da računalniška miška ni bila vedno plastična, ker so prve različice izdelovali iz lesa?", "kategorija": "Tehnologija"},
-  {"id": 49, "vsebina": "Neverjetno, da imajo čebele pet oči, ker tri uporabljajo za svetlobo, dve pa za orientacijo.", "kategorija": "Živali"},
-  {"id": 50, "vsebina": "Ali veš, da je srce modrega kita veliko kot manjši avtomobil, ker mora poganjati kri skozi ogromno telo?", "kategorija": "Živali"},
-  {"id": 51, "vsebina": "Si vedel, da lahko polži spijo tudi več let, ker v sušnih razmerah upočasnijo svoj metabolizem?", "kategorija": "Živali"},
-  {"id": 52, "vsebina": "Neverjetno, da je koala večino dneva zaspana, ker njena hrana vsebuje zelo malo energije.", "kategorija": "Živali"},
-  {"id": 53, "vsebina": "Ali veš, da ima Jupiter največjo nevihto v Osončju, ker njegova atmosfera vsebuje ogromne količine plinov?", "kategorija": "Vesolje"},
-  {"id": 54, "vsebina": "Si vedel, da korenje nekoč ni bilo oranžno, ker so prve vrste bile vijolične in bele?", "kategorija": "Hrana"},
-  {"id": 55, "vsebina": "Neverjetno, da lahko morski konjiček zanosi, ker samci nosijo mladiče v posebni vreči.", "kategorija": "Živali"},
-  {"id": 56, "vsebina": "Ali veš, da ima človek več bakterij kot celic, ker mikroorganizmi živijo po celotnem telesu?", "kategorija": "Narava"},
-  {"id": 57, "vsebina": "Si vedel, da je najstarejša znana pizza nastala v Italiji, ker so tam prvi začeli peči testo s paradižnikom?", "kategorija": "Hrana"},
-  {"id": 58, "vsebina": "Neverjetno, da se lahko bambus v enem dnevu zraste tudi meter, ker zelo hitro deli celice.", "kategorija": "Narava"},
-  {"id": 59, "vsebina": "Ali veš, da flamingi postanejo rožnati zaradi hrane, ker njihova prehrana vsebuje posebne pigmente?", "kategorija": "Živali"},
-  {"id": 60, "vsebina": "Si vedel, da je luna počasi vse bolj oddaljena od Zemlje, ker gravitacija povzroča postopno premikanje?", "kategorija": "Vesolje"},
-  {"id": 61, "vsebina": "Neverjetno, da lahko morska zvezda obnovi izgubljen krak, ker ima izjemno sposobnost regeneracije.", "kategorija": "Živali"},
-  {"id": 62, "vsebina": "Ali veš, da so prve olimpijske igre trajale le en dan, ker je bilo disciplin veliko manj kot danes?", "kategorija": "Šport"},
-  {"id": 63, "vsebina": "Si vedel, da se avokado šteje za sadež, ker vsebuje eno veliko seme?", "kategorija": "Hrana"},
-  {"id": 64, "vsebina": "Neverjetno, da ima severni medved črno kožo, ker bolje vpija toploto sonca.", "kategorija": "Živali"},
-  {"id": 65, "vsebina": "Ali veš, da je bil prvi alarm nastavljen samo na eno uro, ker ni imel možnosti spreminjanja časa?", "kategorija": "Tehnologija"},
-  {"id": 66, "vsebina": "Si vedel, da lahko delfini prepoznajo sami sebe v ogledalu, ker imajo visoko razvito inteligenco?", "kategorija": "Živali"},
-  {"id": 67, "vsebina": "Neverjetno, da je Antarktika največja puščava na svetu, ker tam skoraj nikoli ne dežuje.", "kategorija": "Narava"},
-  {"id": 68, "vsebina": "Ali veš, da imajo metulji okusne receptorje na nogah, ker z njimi preverjajo rastline?", "kategorija": "Živali"},
-  {"id": 69, "vsebina": "Si vedel, da so Rimljani uporabljali urin za čiščenje zob, ker vsebuje amonijak?", "kategorija": "Zgodovina"},
-  {"id": 70, "vsebina": "Neverjetno, da se lahko strela segreje bolj kot površina Sonca, ker sprosti ogromno energije v trenutku.", "kategorija": "Narava"},
-  {"id": 71, "vsebina": "Ali veš, da kenguru ne more hoditi nazaj, ker ima premočne zadnje noge in dolg rep?", "kategorija": "Živali"},
-  {"id": 72, "vsebina": "Si vedel, da je internet sprva služil vojski, ker so želeli varno komunikacijo med računalniki?", "kategorija": "Tehnologija"},
-  {"id": 73, "vsebina": "Neverjetno, da lahko hobotnica spremeni barvo v sekundi, ker ima posebne pigmentne celice.", "kategorija": "Živali"},
-  {"id": 74, "vsebina": "Ali veš, da ima Saturn tako nizko gostoto, da bi plaval na vodi, ker je večinoma sestavljen iz plinov?", "kategorija": "Vesolje"},
-  {"id": 75, "vsebina": "Si vedel, da je arašid dejansko stročnica, ker raste pod zemljo podobno kot fižol?", "kategorija": "Hrana"},
-  {"id": 76, "vsebina": "Neverjetno, da se lava lahko premika hitreje od avtomobila, ker jo poganja močan pritisk iz vulkana.", "kategorija": "Narava"},
-  {"id": 77, "vsebina": "Ali veš, da imajo mačke več kosti kot ljudje, ker imajo zelo gibljiv rep?", "kategorija": "Živali"},
-  {"id": 78, "vsebina": "Si vedel, da so prve kamere potrebovale več ur za eno fotografijo, ker so bile svetlobno zelo neučinkovite?", "kategorija": "Tehnologija"},
-  {"id": 79, "vsebina": "Neverjetno, da lahko želve dihajo tudi skozi zadnjik, ker imajo posebne krvne žile za izmenjavo kisika.", "kategorija": "Živali"},
-  {"id": 80, "vsebina": "Ali veš, da je največji puščavski pesek nastal iz školjk, ker jih je ocean skozi čas zdrobil?", "kategorija": "Narava"},
-  {"id": 81, "vsebina": "Si vedel, da je Napoleon nekoč izgubil bitko proti zajcem, ker so ga napadli med lovom?", "kategorija": "Zgodovina"},
-  {"id": 82, "vsebina": "Neverjetno, da ima človeški nos sposobnost zaznati trilijone vonjav, ker vsebuje milijone receptorjev.", "kategorija": "Narava"},
-  {"id": 83, "vsebina": "Ali veš, da lahko morski psi zaznajo kapljico krvi na veliki razdalji, ker imajo izjemno občutljiv voh?", "kategorija": "Živali"},
-  {"id": 84, "vsebina": "Si vedel, da je bil prvi video na YouTubu dolg le 18 sekund, ker je platforma takrat še testirala delovanje?", "kategorija": "Tehnologija"},
-  {"id": 85, "vsebina": "Neverjetno, da banane oddajajo rahlo radioaktivnost, ker vsebujejo kalij.", "kategorija": "Hrana"},
-  {"id": 86, "vsebina": "Ali veš, da je voda lahko hkrati tekoča in trdna, ker obstaja stanje imenovano trojna točka?", "kategorija": "Narava"},
-  {"id": 87, "vsebina": "Si vedel, da so Vikingi uporabljali kosti živali za drsalke, ker kovinskih še niso poznali?", "kategorija": "Zgodovina"},
-  {"id": 88, "vsebina": "Neverjetno, da se lahko nekatere žabe zamrznejo in preživijo, ker njihovo telo proizvaja naravni antifriz.", "kategorija": "Živali"},
-  {"id": 89, "vsebina": "Ali veš, da je Sonce tako veliko, da bi vanj lahko spravili več kot milijon Zemelj, ker ima ogromen volumen?", "kategorija": "Vesolje"},
-  {"id": 90, "vsebina": "Si vedel, da se krompir uporablja za proizvodnjo elektrike, ker vsebuje elektrolite?", "kategorija": "Tehnologija"},
-  {"id": 91, "vsebina": "Neverjetno, da imajo papige sposobnost posnemanja govora, ker so njihovi možgani zelo prilagodljivi.", "kategorija": "Živali"},
-  {"id": 92, "vsebina": "Ali veš, da lahko človeški želodec raztopi britvico, ker vsebuje močno želodčno kislino?", "kategorija": "Narava"},
-  {"id": 93, "vsebina": "Si vedel, da je šah nastal v Indiji, ker so tam razvili zgodnjo različico igre?", "kategorija": "Zgodovina"},
-  {"id": 94, "vsebina": "Neverjetno, da lahko nekatere ribe hodijo po kopnem, ker imajo prilagojene plavuti za premikanje.", "kategorija": "Živali"},
-  {"id": 95, "vsebina": "Ali veš, da je čokolada nevarna za pse, ker vsebuje teobromin, ki ga ne morejo presnavljati?", "kategorija": "Hrana"},
-  {"id": 96, "vsebina": "Si vedel, da imajo oblaki lahko težo več milijonov kilogramov, ker vsebujejo ogromno kapljic vode?", "kategorija": "Narava"},
-  {"id": 97, "vsebina": "Neverjetno, da se je prvi računalniški virus širil prek disket, ker internet še ni bil razširjen.", "kategorija": "Tehnologija"},
-  {"id": 98, "vsebina": "Ali veš, da ima žirafa enako število vratnih vretenc kot človek, ker imajo skoraj vsi sesalci sedem vretenc?", "kategorija": "Živali"},
-  {"id": 99, "vsebina": "Si vedel, da so stare piramide nekoč bile bele, ker so bile prekrite z gladkim apnencem?", "kategorija": "Zgodovina"},
-  {"id": 100, "vsebina": "Neverjetno, da lahko meduze živijo brez možganov, ker njihov živčni sistem deluje razpršeno.", "kategorija": "Živali"},
-  {"id": 101, "vsebina": "Ali veš, da se lahko kamele zaprejo nosnice, ker jih tako zaščitijo pred peskom?", "kategorija": "Živali"},
-  {"id": 102, "vsebina": "Si vedel, da ima Zemlja več dreves kot zvezd v naši galaksiji, ker gozdovi pokrivajo ogromna območja?", "kategorija": "Narava"},
-  {"id": 103, "vsebina": "Neverjetno, da lahko lava ustvari novo kopno, ker se ohlajena magma strdi v kamen.", "kategorija": "Narava"},
-  {"id": 104, "vsebina": "Ali veš, da je bil prvi mobilni telefon težak več kot kilogram, ker baterije takrat niso bile učinkovite?", "kategorija": "Tehnologija"},
-  {"id": 105, "vsebina": "Si vedel, da lenivci skoraj ves čas visijo obrnjeni navzdol, ker imajo posebej prilagojene kremplje?", "kategorija": "Živali"},
-  {"id": 106, "vsebina": "Neverjetno, da lahko sončnice sledijo Soncu, ker njihove celice rastejo hitreje na senčni strani.", "kategorija": "Narava"},
-  {"id": 107, "vsebina": "Ali veš, da ima človeško telo dovolj železa za izdelavo majhnega žeblja, ker je železo pomembno za kri?", "kategorija": "Narava"},
-  {"id": 108, "vsebina": "Si vedel, da so prve video igre nastale za znanstvene raziskave, ker so želeli prikazati računalniške zmogljivosti?", "kategorija": "Tehnologija"},
-  {"id": 109, "vsebina": "Neverjetno, da lahko nekatere vrste bambusa cvetijo le enkrat na sto let, ker imajo zelo dolg življenjski cikel.", "kategorija": "Narava"},
-  {"id": 110, "vsebina": "Ali veš, da je največji vulkan v Osončju na Marsu, ker tam ni premikanja tektonskih plošč?", "kategorija": "Vesolje"},
-  {"id": 111, "vsebina": "Si vedel, da imajo sove neslišno letenje, ker imajo posebna peresa za zmanjšanje zvoka?", "kategorija": "Živali"},
-  {"id": 112, "vsebina": "Neverjetno, da lahko jabolka plavajo na vodi, ker vsebujejo veliko zraka.", "kategorija": "Hrana"},
-  {"id": 113, "vsebina": "Ali veš, da so nekoč ljudje uporabljali čebulo kot denar, ker je bila zelo dragocena?", "kategorija": "Zgodovina"},
-  {"id": 114, "vsebina": "Si vedel, da imajo mravlje svoje pokopališče, ker mrtve člane kolonije odnesejo stran od gnezda?", "kategorija": "Živali"},
-  {"id": 115, "vsebina": "Neverjetno, da se lahko nekatere rastline premikajo, ker reagirajo na svetlobo in dotik.", "kategorija": "Narava"},
-  {"id": 116, "vsebina": "Ali veš, da je človeška koža največji organ telesa, ker pokriva celotno zunanjost?", "kategorija": "Narava"},
-  {"id": 117, "vsebina": "Si vedel, da ima Venera daljši dan kot leto, ker se zelo počasi vrti okoli svoje osi?", "kategorija": "Vesolje"},
-  {"id": 118, "vsebina": "Neverjetno, da lahko morski psi zamenjajo tisoče zob, ker jim novi zobje nenehno rastejo.", "kategorija": "Živali"},
-  {"id": 119, "vsebina": "Ali veš, da so prve ure merile čas s senco, ker mehanskih naprav še niso poznali?", "kategorija": "Zgodovina"},
-  {"id": 120, "vsebina": "Si vedel, da ima lubenica več kot 90 odstotkov vode, ker je prilagojena vročim podnebjem?", "kategorija": "Hrana"},
-  {"id": 121, "vsebina": "Neverjetno, da lahko pajki letijo po zraku, ker uporabljajo tanke svilene niti za veter.", "kategorija": "Živali"},
-  {"id": 122, "vsebina": "Ali veš, da je bil prvi e-mail poslan leta 1971, ker so raziskovalci testirali računalniško omrežje?", "kategorija": "Tehnologija"},
-  {"id": 123, "vsebina": "Si vedel, da so dinozavri živeli bližje času ljudi kot času nastanka Zemlje, ker je Zemlja izjemno stara?", "kategorija": "Zgodovina"},
-  {"id": 124, "vsebina": "Neverjetno, da lahko nekatere kače zaznajo toploto plena, ker imajo posebne senzorične organe.", "kategorija": "Živali"},
-  {"id": 125, "vsebina": "Ali veš, da je snežinka vedno šestkotna, ker se molekule vode povezujejo pod določenimi koti?", "kategorija": "Narava"},
-  {"id": 126, "vsebina": "Si vedel, da lahko kavna zrna pomagajo pri odstranjevanju neprijetnih vonjav, ker vpijajo aromatične spojine?", "kategorija": "Hrana"},
-  {"id": 127, "vsebina": "Neverjetno, da imajo netopirji izjemen sluh, ker uporabljajo eholokacijo za orientacijo.", "kategorija": "Živali"},
-  {"id": 128, "vsebina": "Ali veš, da je bil prvi robot izdelan že v antični Grčiji, ker so izumitelji ustvarjali mehanske naprave?", "kategorija": "Tehnologija"},
-  {"id": 129, "vsebina": "Si vedel, da imajo drevesa med seboj podzemno komunikacijo, ker si preko gliv izmenjujejo hranila?", "kategorija": "Narava"},
-  {"id": 130, "vsebina": "Neverjetno, da lahko morski levi ploskajo z zadnjimi plavutmi, ker imajo zelo gibljive sklepe.", "kategorija": "Živali"},
-  {"id": 131, "vsebina": "Ali veš, da je bil košarkarski obroč sprva zaprt, ker so uporabljali prave košare za sadje?", "kategorija": "Šport"},
-  {"id": 132, "vsebina": "Si vedel, da ima ananas encime za razgradnjo beljakovin, ker rastlina uporablja posebne kemične spojine?", "kategorija": "Hrana"},
-  {"id": 133, "vsebina": "Neverjetno, da lahko mravlje nosijo večkratnik svoje teže, ker imajo zelo močne mišice glede na velikost.", "kategorija": "Živali"},
-  {"id": 134, "vsebina": "Ali veš, da je na Luni manj gravitacije, ker ima veliko manjšo maso kot Zemlja?", "kategorija": "Vesolje"},
-  {"id": 135, "vsebina": "Si vedel, da so stare knjige pogosto dišale po vanilji, ker papir vsebuje kemične spojine podobne vaniliji?", "kategorija": "Zgodovina"},
-  {"id": 136, "vsebina": "Neverjetno, da lahko nekatere ptice spijo med letenjem, ker polovica njihovih možganov ostane budna.", "kategorija": "Živali"},
-  {"id": 137, "vsebina": "Ali veš, da je bil prvi spletni naslov ustvarjen za raziskovalni center, ker je internet nastal za akademske namene?", "kategorija": "Tehnologija"},
-  {"id": 138, "vsebina": "Si vedel, da imajo lignji modro kri, ker uporabljajo baker namesto železa za prenos kisika?", "kategorija": "Živali"},
-  {"id": 139, "vsebina": "Neverjetno, da lahko kaktusi shranijo ogromne količine vode, ker so prilagojeni puščavskim razmeram.", "kategorija": "Narava"},
-  {"id": 140, "vsebina": "Ali veš, da je bila prva nogometna žoga narejena iz živalskega mehurja, ker gume še niso uporabljali?", "kategorija": "Šport"},
-  {"id": 141, "vsebina": "Si vedel, da imajo nekatere ribe prozorno kri, ker živijo v zelo hladnih vodah z veliko kisika?", "kategorija": "Živali"},
-  {"id": 142, "vsebina": "Neverjetno, da se lahko ledeniki premikajo, ker ogromna masa ledu počasi drsi po tleh.", "kategorija": "Narava"},
-  {"id": 143, "vsebina": "Ali veš, da ima računalniška tipka Caps Lock zgodovinski izvor, ker so jo prevzeli iz pisalnih strojev?", "kategorija": "Tehnologija"},
-  {"id": 144, "vsebina": "Si vedel, da je bila najkrajša vojna v zgodovini dolga manj kot eno uro, ker se je ena stran hitro predala?", "kategorija": "Zgodovina"},
-  {"id": 145, "vsebina": "Neverjetno, da lahko nekatere alge svetijo v temi, ker proizvajajo bioluminiscenčne kemikalije.", "kategorija": "Narava"},
-  {"id": 146, "vsebina": "Ali veš, da imajo sloni odličen spomin, ker imajo zelo razvite možganske strukture?", "kategorija": "Živali"},
-  {"id": 147, "vsebina": "Si vedel, da se lahko meteorit segreje do žarenja, ker pri vstopu v atmosfero nastane močno trenje?", "kategorija": "Vesolje"},
-  {"id": 148, "vsebina": "Neverjetno, da je paradižnik nekoč veljal za strupenega, ker so ljudje napačno razumeli njegove lastnosti.", "kategorija": "Hrana"},
-  {"id": 149, "vsebina": "Ali veš, da imajo gepardi črne črte pod očmi, ker zmanjšujejo bleščanje sonca med lovom?", "kategorija": "Živali"},
-  {"id": 150, "vsebina": "Si vedel, da lahko voda zavre in zmrzne hkrati, ker posebni pogoji omogočajo obe stanji?", "kategorija": "Narava"},
-  {"id": 151, "vsebina": "Neverjetno, da imajo morski psi starejši izvor kot drevesa, ker obstajajo že več sto milijonov let.", "kategorija": "Živali"},
-  {"id": 152, "vsebina": "Ali veš, da je bil prvi spletni brskalnik tudi urejevalnik strani, ker so želeli omogočiti ustvarjanje vsebin?", "kategorija": "Tehnologija"},
-  {"id": 153, "vsebina": "Si vedel, da imajo krave najboljše prijatelje, ker tvorijo močne socialne vezi?", "kategorija": "Živali"},
-  {"id": 154, "vsebina": "Neverjetno, da lahko lava pod vodo ustvari steklo, ker se zelo hitro ohladi.", "kategorija": "Narava"},
-  {"id": 155, "vsebina": "Ali veš, da so stari Egipčani uporabljali kruh proti okužbam, ker je plesen vsebovala naravne antibiotike?", "kategorija": "Zgodovina"},
-  {"id": 156, "vsebina": "Si vedel, da imajo nekatere ptice magnetni občutek, ker zaznavajo Zemljino magnetno polje?", "kategorija": "Živali"},
-  {"id": 157, "vsebina": "Neverjetno, da je Neptun odkrila matematika, ker so astronomi izračunali njegovo lego pred opazovanjem.", "kategorija": "Vesolje"},
-  {"id": 158, "vsebina": "Ali veš, da lahko kokosova voda nadomesti fiziološko raztopino, ker vsebuje veliko elektrolitov?", "kategorija": "Hrana"},
-  {"id": 159, "vsebina": "Si vedel, da imajo žolne poseben jezik za zaščito možganov, ker se ovije okoli glave?", "kategorija": "Živali"},
-  {"id": 160, "vsebina": "Neverjetno, da lahko puščavski pesek poje, ker veter povzroča vibracije med zrni.", "kategorija": "Narava"},
-  {"id": 161, "vsebina": "Ali veš, da je bil prvi računalniški program napisan za stroj, ki nikoli ni deloval, ker naprava ni bila dokončana?", "kategorija": "Tehnologija"},
-  {"id": 162, "vsebina": "Si vedel, da imajo nekatere vrste medvedov vijoličen jezik, ker vsebuje posebne pigmente?", "kategorija": "Živali"},
-  {"id": 163, "vsebina": "Neverjetno, da lahko luna povzroča plimovanje oceanov, ker njena gravitacija vleče Zemljino vodo.", "kategorija": "Vesolje"},
-  {"id": 164, "vsebina": "Ali veš, da imajo flamingi sposobnost stati na eni nogi brez utrujenosti, ker zaklenejo sklepe?", "kategorija": "Živali"},
-  {"id": 165, "vsebina": "Si vedel, da so nekoč ljudje uporabljali pajčevino za povoje, ker ima antibakterijske lastnosti?", "kategorija": "Zgodovina"},
-  {"id": 166, "vsebina": "Neverjetno, da lahko nekatere gobe svetijo v temi, ker proizvajajo bioluminiscenčne snovi.", "kategorija": "Narava"},
-  {"id": 167, "vsebina": "Ali veš, da ima človeško oko sposobnost razlikovati milijone barv, ker vsebuje posebne svetlobne receptorje?", "kategorija": "Narava"},
-  {"id": 168, "vsebina": "Si vedel, da je bil prvi računalniški disk velik kot soba, ker tehnologija še ni bila miniaturizirana?", "kategorija": "Tehnologija"},
-  {"id": 169, "vsebina": "Neverjetno, da lahko nekatere kače letijo med drevesi, ker sploščijo telo in drsijo po zraku.", "kategorija": "Živali"},
-  {"id": 170, "vsebina": "Ali veš, da imajo morske vidre najgostejše krzno med živalmi, ker jih ščiti pred mrzlo vodo?", "kategorija": "Živali"},
-  {"id": 171, "vsebina": "Si vedel, da lahko meteorski dež nastane iz ostankov kometov, ker Zemlja potuje skozi njihove sledi?", "kategorija": "Vesolje"},
-  {"id": 172, "vsebina": "Neverjetno, da je čili pekoč zaradi obrambe pred živalmi, ker kapsaicin odvrača plenilce.", "kategorija": "Hrana"},
-  {"id": 173, "vsebina": "Ali veš, da imajo zebre različne vzorce prog, ker delujejo podobno kot prstni odtisi?", "kategorija": "Živali"},
-  {"id": 174, "vsebina": "Si vedel, da lahko veter premika kamne v puščavi, ker tanek sloj ledu zmanjša trenje?", "kategorija": "Narava"},
-  {"id": 175, "vsebina": "Neverjetno, da so prvi športni copati imeli gumijast podplat brez vezalk, ker so bili namenjeni tihemu gibanju.", "kategorija": "Šport"},
-  {"id": 176, "vsebina": "Ali veš, da imajo nekatere želve sposobnost zaznavanja Zemljinega magnetnega polja, ker jim pomaga pri selitvah?", "kategorija": "Živali"},
-  {"id": 177, "vsebina": "Si vedel, da je bil prvi virus za računalnike ustvarjen kot eksperiment, ker so raziskovalci proučevali širjenje programov?", "kategorija": "Tehnologija"},
-  {"id": 178, "vsebina": "Neverjetno, da lahko severni sij spreminja barve, ker različni plini v atmosferi svetijo različno.", "kategorija": "Vesolje"},
-  {"id": 179, "vsebina": "Ali veš, da imajo polži na tisoče drobnih zob, ker z njimi strgajo hrano?", "kategorija": "Živali"},
-  {"id": 180, "vsebina": "Si vedel, da so prve testenine verjetno jedli že pred tisoči let, ker so ljudje zgodaj začeli uporabljati moko in vodo?", "kategorija": "Hrana"},
-  {"id": 181, "vsebina": "Ali veš, da lahko kamele spijejo več deset litrov vode naenkrat, ker njihovo telo hitro nadomesti izgubljeno tekočino?", "kategorija": "Živali"},
-  {"id": 182, "vsebina": "Si vedel, da ima človeški skelet ob rojstvu več kosti kot v odraslosti, ker se nekatere kosti sčasoma združijo?", "kategorija": "Narava"},
-  {"id": 183, "vsebina": "Neverjetno, da lahko vulkanski pepel izboljša rodovitnost zemlje, ker vsebuje veliko mineralov.", "kategorija": "Narava"},
-  {"id": 184, "vsebina": "Ali veš, da so stare civilizacije uporabljale golobe za pošto, ker se znajo vedno vrniti domov?", "kategorija": "Zgodovina"},
-  {"id": 185, "vsebina": "Si vedel, da imajo nekatere vrste rib sposobnost spreminjanja spola, ker se prilagajajo razmeram v skupini?", "kategorija": "Živali"},
-  {"id": 186, "vsebina": "Neverjetno, da lahko računalniki danes opravijo milijarde izračunov na sekundo, ker uporabljajo izjemno hitre procesorje.", "kategorija": "Tehnologija"},
-  {"id": 187, "vsebina": "Ali veš, da ima človeški jezik edinstven odtis podobno kot prst, ker je razporeditev papil drugačna pri vsakem človeku?", "kategorija": "Narava"},
-  {"id": 188, "vsebina": "Si vedel, da lahko nekateri kuščarji odvržejo rep za pobeg, ker jim kasneje zraste nov?", "kategorija": "Živali"},
-  {"id": 189, "vsebina": "Neverjetno, da je na Merkurju dan daljši od leta, ker se planet zelo počasi vrti okoli svoje osi.", "kategorija": "Vesolje"},
-  {"id": 190, "vsebina": "Ali veš, da se sladoled topi počasneje zaradi maščobe, ker zmanjšuje hitrost taljenja?", "kategorija": "Hrana"},
-  {"id": 191, "vsebina": "Si vedel, da imajo krokodili izjemno močan ugriz, ker njihove čeljustne mišice ustvarijo velik pritisk?", "kategorija": "Živali"},
-  {"id": 192, "vsebina": "Neverjetno, da so prve knjige pisali na glinene tablice, ker papir še ni obstajal.", "kategorija": "Zgodovina"},
-  {"id": 193, "vsebina": "Ali veš, da lahko nekatere vrste bambusa preživijo požar, ker imajo zelo odporne korenine?", "kategorija": "Narava"},
-  {"id": 194, "vsebina": "Si vedel, da je bil prvi računalniški hrošč dejansko molj, ker se je zataknil v računalniško vezje?", "kategorija": "Tehnologija"},
-  {"id": 195, "vsebina": "Neverjetno, da lahko nekatere ptice vidijo ultravijolično svetlobo, ker imajo drugačne receptorje v očeh.", "kategorija": "Živali"},
-  {"id": 196, "vsebina": "Ali veš, da so Saturnovi obroči sestavljeni predvsem iz ledu, ker se svetloba od njega močno odbija?", "kategorija": "Vesolje"},
-  {"id": 197, "vsebina": "Si vedel, da ima kokos tri plasti zaščite, ker mora seme preživeti dolga potovanja po morju?", "kategorija": "Narava"},
-  {"id": 198, "vsebina": "Neverjetno, da lahko pingvini pijejo morsko vodo, ker imajo posebne žleze za odstranjevanje soli.", "kategorija": "Živali"},
-  {"id": 199, "vsebina": "Ali veš, da so Rimljani uporabljali centralno ogrevanje, ker so vroč zrak speljali pod tla?", "kategorija": "Zgodovina"},
-  {"id": 200, "vsebina": "Si vedel, da lahko nekatere rastline prepoznajo sorodne rastline, ker preko korenin zaznavajo kemične signale?", "kategorija": "Narava"},
-  {"id": 201, "vsebina": "Neverjetno, da imajo pajki modro kri, ker vsebuje baker namesto železa.", "kategorija": "Živali"},
-  {"id": 202, "vsebina": "Ali veš, da je prva spletna kamera spremljala kavni avtomat, ker raziskovalci niso želeli hoditi po prazno?", "kategorija": "Tehnologija"},
-  {"id": 203, "vsebina": "Si vedel, da ima Luna potrese, ker nanjo vpliva gravitacija Zemlje?", "kategorija": "Vesolje"},
-  {"id": 204, "vsebina": "Neverjetno, da lahko medvedi tečejo hitreje od konj na kratke razdalje, ker imajo zelo močne mišice.", "kategorija": "Živali"},
-  {"id": 205, "vsebina": "Ali veš, da je kečap nekoč veljal za zdravilo, ker so verjeli v zdravilne učinke paradižnika?", "kategorija": "Hrana"},
-  {"id": 206, "vsebina": "Si vedel, da imajo nekatere vrste dreves sposobnost opozarjanja drugih dreves pred nevarnostjo, ker sproščajo kemične signale?", "kategorija": "Narava"},
-  {"id": 207, "vsebina": "Neverjetno, da lahko hobotnica odpre kozarec, ker ima zelo razvite možgane in spretne lovke.", "kategorija": "Živali"},
-  {"id": 208, "vsebina": "Ali veš, da je bil prvi olimpijski maraton daljši kot danes, ker standardna dolžina še ni bila določena?", "kategorija": "Šport"},
-  {"id": 209, "vsebina": "Si vedel, da se lahko kovina pri ekstremnem mrazu zlomi kot steklo, ker postane bolj krhka?", "kategorija": "Narava"},
-  {"id": 210, "vsebina": "Neverjetno, da lahko nekatere ribe ustvarjajo elektriko, ker imajo posebne električne organe.", "kategorija": "Živali"},
-  {"id": 211, "vsebina": "Ali veš, da je bil prvi SMS dolg le dve besedi, ker je služil kot test mobilnega omrežja?", "kategorija": "Tehnologija"},
-  {"id": 212, "vsebina": "Si vedel, da imajo čebele poseben ples za komunikacijo, ker z njim pokažejo smer hrane?", "kategorija": "Živali"},
-  {"id": 213, "vsebina": "Neverjetno, da lahko severni sij nastane zaradi Sonca, ker nabiti delci trčijo v Zemljino atmosfero.", "kategorija": "Vesolje"},
-  {"id": 214, "vsebina": "Ali veš, da je arašidovo maslo mogoče spremeniti v diamant, ker vsebuje veliko ogljika?", "kategorija": "Hrana"},
-  {"id": 215, "vsebina": "Si vedel, da imajo tigri črtasto tudi kožo, ker pigment sega pod dlako?", "kategorija": "Živali"},
-  {"id": 216, "vsebina": "Neverjetno, da lahko puščave ponoči postanejo zelo hladne, ker pesek hitro izgublja toploto.", "kategorija": "Narava"},
-  {"id": 217, "vsebina": "Ali veš, da so prvi zemljevidi prikazovali svet zelo netočno, ker raziskovalci niso poznali vseh celin?", "kategorija": "Zgodovina"},
-  {"id": 218, "vsebina": "Si vedel, da imajo nekatere vrste rib prosojno kri, ker nimajo rdečih krvničk?", "kategorija": "Živali"},
-  {"id": 219, "vsebina": "Neverjetno, da lahko nekateri polži preživijo brez hrane več mesecev, ker močno upočasnijo metabolizem.", "kategorija": "Živali"},
-  {"id": 220, "vsebina": "Ali veš, da je prvi trdi disk hranil manj podatkov kot današnja fotografija, ker je bila tehnologija omejena?", "kategorija": "Tehnologija"},
-  {"id": 221, "vsebina": "Si vedel, da imajo morski psi elektroreceptorje, ker zaznavajo električne impulze plena?", "kategorija": "Živali"},
-  {"id": 222, "vsebina": "Neverjetno, da se lahko oblaki premikajo hitreje od avtomobilov, ker jih nosijo močni vetrovi.", "kategorija": "Narava"},
-  {"id": 223, "vsebina": "Ali veš, da so nekoč uporabljali čokolado kot valuto, ker je bila zelo cenjena?", "kategorija": "Zgodovina"},
-  {"id": 224, "vsebina": "Si vedel, da lahko kolibri leti vzvratno, ker njegova krila mahajo v obliki osmice?", "kategorija": "Živali"},
-  {"id": 225, "vsebina": "Neverjetno, da ima Venera bolj vročo površino kot Merkur, ker njena atmosfera zadržuje toploto.", "kategorija": "Vesolje"},
-  {"id": 226, "vsebina": "Ali veš, da imajo človeški lasje veliko moč, ker posamezen las prenese precejšnjo težo?", "kategorija": "Narava"},
-  {"id": 227, "vsebina": "Si vedel, da so prve ure na roki nosili predvsem vojaki, ker so potrebovali prosti roki?", "kategorija": "Zgodovina"},
-  {"id": 228, "vsebina": "Neverjetno, da lahko nekatere vrste rakov živijo več kot sto let, ker rastejo zelo počasi.", "kategorija": "Živali"},
-  {"id": 229, "vsebina": "Ali veš, da imajo nekatere rastline sposobnost lovljenja žuželk, ker rastejo v tleh brez hranil?", "kategorija": "Narava"},
-  {"id": 230, "vsebina": "Si vedel, da je prvi računalniški zaslon prikazoval le besedilo, ker grafične zmogljivosti še niso obstajale?", "kategorija": "Tehnologija"},
-  {"id": 231, "vsebina": "Neverjetno, da lahko nekatere ptice uporabljajo orodje, ker imajo razvite sposobnosti reševanja problemov.", "kategorija": "Živali"},
-  {"id": 232, "vsebina": "Ali veš, da je največja snežinka merila skoraj pol metra, ker so se ledeni kristali združili med padanjem?", "kategorija": "Narava"},
-  {"id": 233, "vsebina": "Si vedel, da je bil prvi nogomet brez sodnikov, ker so igralci sami reševali spore?", "kategorija": "Šport"},
-  {"id": 234, "vsebina": "Neverjetno, da lahko hobotnica prepozna ljudi, ker si zapomni obraze in vedenje.", "kategorija": "Živali"},
-  {"id": 235, "vsebina": "Ali veš, da se nekateri meteoroidi premikajo hitreje od krogle, ker jih pospešuje gravitacija?", "kategorija": "Vesolje"},
-  {"id": 236, "vsebina": "Si vedel, da imajo jastogi modro kri, ker vsebuje baker namesto železa?", "kategorija": "Živali"},
-  {"id": 237, "vsebina": "Neverjetno, da lahko veter spremeni obliko skal, ker pesek deluje kot brusni papir.", "kategorija": "Narava"},
-  {"id": 238, "vsebina": "Ali veš, da so prvi računalniški programerji pogosto bile ženske, ker so programiranje sprva dojemali kot administrativno delo?", "kategorija": "Tehnologija"},
-  {"id": 239, "vsebina": "Si vedel, da imajo nekatere vrste rib sposobnost hoje po morskem dnu, ker uporabljajo plavuti kot noge?", "kategorija": "Živali"},
-  {"id": 240, "vsebina": "Neverjetno, da lahko vroča voda včasih zmrzne hitreje kot hladna, ker pride do posebnega pojava imenovanega Mpembin efekt.", "kategorija": "Narava"},
-  {"id": 241, "vsebina": "Ali veš, da so srednjeveški vitezi pogosto igrali nogomet, ker je bil šport priljubljena zabava?", "kategorija": "Šport"},
-  {"id": 242, "vsebina": "Si vedel, da imajo delfini imena za druge delfine, ker uporabljajo posebne žvižge za prepoznavanje?", "kategorija": "Živali"},
-  {"id": 243, "vsebina": "Neverjetno, da lahko nekateri vulkani bruhajo modro lavo, ker vsebujejo goreče žveplove pline.", "kategorija": "Narava"},
-  {"id": 244, "vsebina": "Ali veš, da je bila prva računalniška gesla dolga le nekaj znakov, ker so bili sistemi preprostejši?", "kategorija": "Tehnologija"},
-  {"id": 245, "vsebina": "Si vedel, da imajo netopirji zelo dolgo življenjsko dobo glede na velikost, ker imajo počasen metabolizem?", "kategorija": "Živali"},
-  {"id": 246, "vsebina": "Neverjetno, da lahko nekateri asteroidi imajo svoje lune, ker jih gravitacija drži v orbiti.", "kategorija": "Vesolje"},
-  {"id": 247, "vsebina": "Ali veš, da imajo človeški možgani več povezav kot je zvezd v galaksiji, ker nevroni tvorijo ogromno mrežo?", "kategorija": "Narava"},
-  {"id": 248, "vsebina": "Si vedel, da je bil prvi hladilnik hlajen z ledom, ker elektrike še niso uporabljali?", "kategorija": "Tehnologija"},
-  {"id": 249, "vsebina": "Neverjetno, da lahko nekatere želve živijo več kot 150 let, ker se njihove celice zelo počasi starajo.", "kategorija": "Živali"},
-  {"id": 250, "vsebina": "Ali veš, da imajo komarji raje nekatere ljudi, ker jih privlačijo določene kemične snovi na koži?", "kategorija": "Živali"},
-  {"id": 251, "vsebina": "Si vedel, da so stare civilizacije uporabljale sončne ure za merjenje časa, ker senca pokaže položaj Sonca?", "kategorija": "Zgodovina"},
-  {"id": 252, "vsebina": "Neverjetno, da lahko nekatere gosenice posnemajo kače, ker se tako branijo pred plenilci.", "kategorija": "Živali"},
-  {"id": 253, "vsebina": "Ali veš, da ima Zemlja tekoče kovinsko jedro, ker visoke temperature talijo kovine?", "kategorija": "Narava"},
-  {"id": 254, "vsebina": "Si vedel, da lahko roboti danes operirajo ljudi, ker imajo izjemno natančne mehanske roke?", "kategorija": "Tehnologija"},
-  {"id": 255, "vsebina": "Neverjetno, da lahko nekatere rastline zaznajo dotik, ker se njihove celice odzivajo na pritisk.", "kategorija": "Narava"},
-  {"id": 256, "vsebina": "Ali veš, da imajo severni jeleni ultravijolični vid, ker jim pomaga pri iskanju hrane v snegu?", "kategorija": "Živali"},
-  {"id": 257, "vsebina": "Si vedel, da je bila prva spletna stran še vedno dostopna več desetletij, ker jo hranijo kot zgodovinski arhiv?", "kategorija": "Tehnologija"},
-  {"id": 258, "vsebina": "Neverjetno, da lahko nekatere vrste rib živijo v skoraj vreli vodi, ker so prilagojene ekstremnim razmeram.", "kategorija": "Živali"},
-  {"id": 259, "vsebina": "Ali veš, da imajo drevesa letnice zaradi sezonske rasti, ker se hitrost rasti skozi leto spreminja?", "kategorija": "Narava"},
-  {"id": 260, "vsebina": "Si vedel, da so Vikingi uporabljali sončni kamen za navigacijo, ker je pokazal smer Sonca tudi v oblakih?", "kategorija": "Zgodovina"},
-  {"id": 261, "vsebina": "Neverjetno, da lahko nekatere ptice letijo več dni brez pristanka, ker izkoriščajo zračne tokove.", "kategorija": "Živali"},
-  {"id": 262, "vsebina": "Ali veš, da je na Marsu najvišja pečina v Osončju, ker ima planet drugačne geološke procese?", "kategorija": "Vesolje"},
-  {"id": 263, "vsebina": "Si vedel, da imajo čebule več plasti za zaščito, ker hranijo energijo za rast?", "kategorija": "Hrana"},
-  {"id": 264, "vsebina": "Neverjetno, da lahko električne jegulje ustvarijo močan sunek, ker imajo specializirane električne celice.", "kategorija": "Živali"},
-  {"id": 265, "vsebina": "Ali veš, da je bil prvi tiskalnik počasnejši od današnjega tipkanja, ker je uporabljal mehanske dele?", "kategorija": "Tehnologija"},
-  {"id": 266, "vsebina": "Si vedel, da imajo volkovi različne tuljave za komunikacijo, ker z njimi sporočajo položaj in čustva?", "kategorija": "Živali"},
-  {"id": 267, "vsebina": "Neverjetno, da lahko sneg odbije večino sončne svetlobe, ker je sestavljen iz številnih ledenih kristalov.", "kategorija": "Narava"},
-  {"id": 268, "vsebina": "Ali veš, da so prve olimpijske medalje bile iz srebra, ker zlata medalja še ni obstajala?", "kategorija": "Šport"},
-  {"id": 269, "vsebina": "Si vedel, da imajo nekatere vrste rib vgrajeno naravno zaščito proti zmrzovanju, ker proizvajajo posebne beljakovine?", "kategorija": "Živali"},
-  {"id": 270, "vsebina": "Neverjetno, da lahko strela udari isto mesto večkrat, ker visoki objekti privlačijo električne naboje.", "kategorija": "Narava"},
-  {"id": 271, "vsebina": "Ali veš, da so prve telefonske številke imele le nekaj števk, ker je bilo uporabnikov zelo malo?", "kategorija": "Tehnologija"},
-  {"id": 272, "vsebina": "Si vedel, da imajo čmrlji sposobnost ogrevanja telesa, ker hitro premikajo mišice kril?", "kategorija": "Živali"},
-  {"id": 273, "vsebina": "Neverjetno, da lahko nekateri meteoriti vsebujejo aminokisline, ker nastajajo iz organskih spojin v vesolju.", "kategorija": "Vesolje"},
-  {"id": 274, "vsebina": "Ali veš, da je bila prva žvečilka narejena iz drevesne smole, ker umetnih materialov še niso poznali?", "kategorija": "Hrana"},
-  {"id": 275, "vsebina": "Si vedel, da imajo hobotnice modro kri, ker vsebuje baker za prenos kisika?", "kategorija": "Živali"},
-  {"id": 276, "vsebina": "Neverjetno, da lahko nekateri slapovi tečejo navzgor zaradi vetra, ker močni sunki preusmerijo vodo.", "kategorija": "Narava"},
-  {"id": 277, "vsebina": "Ali veš, da je bil prvi računalniški monitor okrogel, ker je uporabljal tehnologijo osciloskopa?", "kategorija": "Tehnologija"},
-  {"id": 278, "vsebina": "Si vedel, da imajo lenivci na kožuhu alge, ker v njem živijo mikroorganizmi?", "kategorija": "Živali"},
-  {"id": 279, "vsebina": "Neverjetno, da lahko nekateri vulkani ustvarjajo strele, ker se v pepelu nabira električni naboj.", "kategorija": "Narava"},
-  {"id": 280, "vsebina": "Ali veš, da je bila najstarejša znana športna žoga narejena iz usnja, ker gume še niso uporabljali?", "kategorija": "Šport"},
-  {"id": 281, "vsebina": "Si vedel, da imajo mačke sposobnost predenja tudi med bolečino, ker vibracije pomagajo pri pomirjanju?", "kategorija": "Živali"},
-  {"id": 282, "vsebina": "Neverjetno, da lahko Sonce povzroči motnje v električnih omrežjih, ker sončni izbruhi vplivajo na magnetno polje Zemlje.", "kategorija": "Vesolje"},
-  {"id": 283, "vsebina": "Ali veš, da imajo nekateri puščavski hrošči sposobnost zbiranja vode iz megle, ker njihova površina zadržuje kapljice?", "kategorija": "Živali"},
-  {"id": 284, "vsebina": "Si vedel, da je bil prvi avtomobil počasnejši od kolesa, ker motorji še niso bili zmogljivi?", "kategorija": "Tehnologija"},
-  {"id": 285, "vsebina": "Neverjetno, da lahko nekatere rastline preživijo desetletja brez vode, ker semena ostanejo v mirovanju.", "kategorija": "Narava"},
-  {"id": 286, "vsebina": "Ali veš, da imajo sloni sposobnost zaznavanja tresljajev tal, ker uporabljajo občutljive noge?", "kategorija": "Živali"},
-  {"id": 287, "vsebina": "Si vedel, da je bil prvi semafor osvetljen s plinom, ker električna razsvetljava še ni bila razvita?", "kategorija": "Tehnologija"},
-  {"id": 288, "vsebina": "Neverjetno, da lahko ledene gore vsebujejo pitno vodo, ker nastanejo iz stisnjenega snega.", "kategorija": "Narava"},
-  {"id": 289, "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost posnemanja motornih zvokov, ker zelo natančno kopirajo slišane zvoke?", "kategorija": "Živali"},
-  {"id": 290, "vsebina": "Si vedel, da je na Jupitru dan dolg manj kot deset ur, ker se planet zelo hitro vrti?", "kategorija": "Vesolje"},
-  {"id": 291, "vsebina": "Neverjetno, da lahko med vsebuje sledi cvetnega prahu tisoče rastlin, ker čebele obiščejo veliko cvetov.", "kategorija": "Hrana"},
-  {"id": 292, "vsebina": "Ali veš, da imajo žabe sposobnost dihanja skozi kožo, ker je njihova koža zelo prepustna?", "kategorija": "Živali"},
-  {"id": 293, "vsebina": "Si vedel, da so prvi zemljevidi neba nastali brez teleskopov, ker so astronomi opazovali zvezde s prostim očesom?", "kategorija": "Zgodovina"},
-  {"id": 294, "vsebina": "Neverjetno, da lahko nekateri kristali ustvarijo elektriko pod pritiskom, ker imajo piezoelektrične lastnosti.", "kategorija": "Narava"},
-  {"id": 295, "vsebina": "Ali veš, da imajo nekatere vrste pajkov sposobnost potovanja po zraku na svileni niti, ker jih veter odnese daleč stran?", "kategorija": "Živali"},
-  {"id": 296, "vsebina": "Si vedel, da je bila prva video igra ustvarjena za laboratorijski eksperiment, ker so znanstveniki testirali zaslone?", "kategorija": "Tehnologija"},
-  {"id": 297, "vsebina": "Neverjetno, da lahko kameleonske oči gledajo v dve smeri hkrati, ker se vsako oko premika neodvisno.", "kategorija": "Živali"},
-  {"id": 298, "vsebina": "Ali veš, da imajo nekatere gore svoje vremenske sisteme, ker vplivajo na gibanje zraka?", "kategorija": "Narava"},
-  {"id": 299, "vsebina": "Si vedel, da so stari Grki uporabljali paro za mehanske naprave, ker so poznali osnovna načela tlaka?", "kategorija": "Zgodovina"},
-  {"id": 300, "vsebina": "Neverjetno, da lahko nekatere ribe preživijo zunaj vode več dni, ker dihajo tudi skozi kožo.", "kategorija": "Živali"},
-  {"id": 301, "vsebina": "Ali veš, da imajo nekateri sateliti zlato prevleko, ker odbija toploto Sonca?", "kategorija": "Vesolje"},
-  {"id": 302, "vsebina": "Si vedel, da lahko človeško srce še nekaj časa bije zunaj telesa, ker ima lasten električni sistem?", "kategorija": "Narava"},
-  {"id": 303, "vsebina": "Neverjetno, da lahko nekatere rastline rastejo brez zemlje, ker hranila dobijo neposredno iz vode.", "kategorija": "Narava"},
-  {"id": 304, "vsebina": "Ali veš, da imajo nekatere vrste sov nesimetrična ušesa, ker lažje določijo smer zvoka?", "kategorija": "Živali"},
-  {"id": 305, "vsebina": "Si vedel, da je bil prvi računalniški virus ustvarjen brez zlobnega namena, ker je šlo za eksperiment?", "kategorija": "Tehnologija"},
-  {"id": 306, "vsebina": "Neverjetno, da lahko ledeniki vsebujejo zrak,star več tisoč let, ker se zračni mehurčki ujamejo v led.", "kategorija": "Narava"},
-  {"id": 307, "vsebina": "Ali veš, da imajo pingvini posebno olje na perju, ker jih ščiti pred vodo?", "kategorija": "Živali"},
-  {"id": 308, "vsebina": "Si vedel, da je bila prva fotografija potrebovala več dni osvetlitve, ker materiali niso bili občutljivi na svetlobo?", "kategorija": "Tehnologija"},
-  {"id": 309, "vsebina": "Neverjetno, da lahko nekatere kače rodijo žive mladiče, ker jajca ostanejo v telesu samice.", "kategorija": "Živali"},
-  {"id": 310, "vsebina": "Ali veš, da imajo vulkani pomembno vlogo pri nastanku novih otokov, ker lava ustvarja novo kopno?", "kategorija": "Narava"},
-  {"id": 311, "vsebina": "Si vedel, da je bil prvi teniški lopar narejen iz lesa, ker sodobni materiali še niso obstajali?", "kategorija": "Šport"},
-  {"id": 312, "vsebina": "Neverjetno, da lahko nekatere ptice spijo z odprtim očesom, ker ena polovica možganov ostane budna.", "kategorija": "Živali"},
-  {"id": 313, "vsebina": "Ali veš, da imajo nekatere puščave pod površjem velike zaloge vode, ker se voda ujame med kamnine?", "kategorija": "Narava"},
-  {"id": 314, "vsebina": "Si vedel, da je prvi kalkulator tehtal več kilogramov, ker je uporabljal mehanske zobnike?", "kategorija": "Tehnologija"},
-  {"id": 315, "vsebina": "Neverjetno, da lahko nekatere vrste morskih polžev uporabljajo sončno energijo, ker v telesu hranijo alge.", "kategorija": "Živali"},
-  {"id": 316, "vsebina": "Ali veš, da je na Luni prah zelo lepljiv, ker nima vetra ali vode za glajenje delcev?", "kategorija": "Vesolje"},
-  {"id": 317, "vsebina": "Si vedel, da imajo banane naravno ukrivljeno obliko, ker rastejo proti Soncu?", "kategorija": "Hrana"},
-  {"id": 318, "vsebina": "Neverjetno, da lahko nekatere rastline zaznajo zvok vode, ker korenine reagirajo na vibracije.", "kategorija": "Narava"},
-  {"id": 319, "vsebina": "Ali veš, da imajo tigri zelo mehke tačke, ker jim pomagajo pri tihem lovu?", "kategorija": "Živali"},
-  {"id": 320, "vsebina": "Si vedel, da je bil prvi elektronski računalnik večji od sobe, ker je uporabljal vakuumske cevi?", "kategorija": "Tehnologija"},
-  {"id": 321, "vsebina": "Neverjetno, da lahko morski valovi potujejo tisoče kilometrov, ker energija prehaja skozi vodo.", "kategorija": "Narava"},
-  {"id": 322, "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost štetja, ker prepoznajo količine hrane?", "kategorija": "Živali"},
-  {"id": 323, "vsebina": "Si vedel, da so prvi nogometni sodniki uporabljali robčke namesto kartonov, ker kartoni še niso obstajali?", "kategorija": "Šport"},
-  {"id": 324, "vsebina": "Neverjetno, da lahko nekateri vulkani ostanejo speči več stoletij, ker se magma počasi kopiči pod površjem.", "kategorija": "Narava"},
-  {"id": 325, "vsebina": "Ali veš, da imajo nekatere vrste meduz sposobnost pomlajevanja, ker se njihove celice lahko obnovijo?", "kategorija": "Živali"},
-  {"id": 326, "vsebina": "Si vedel, da je bila prva računalniška tipkovnica podobna pisalnemu stroju, ker so uporabniki že poznali takšno razporeditev?", "kategorija": "Tehnologija"},
-  {"id": 327, "vsebina": "Neverjetno, da lahko ledene jame ostanejo zamrznjene tudi poleti, ker hladen zrak ostane ujet v notranjosti.", "kategorija": "Narava"},
-  {"id": 328, "vsebina": "Ali veš, da imajo nekatere vrste rib svetleče organe, ker z njimi privabljajo plen?", "kategorija": "Živali"},
-  {"id": 329, "vsebina": "Si vedel, da je bil prvi satelit velik kot žoga za na plažo, ker je vseboval le osnovno opremo?", "kategorija": "Vesolje"},
-  {"id": 330, "vsebina": "Neverjetno, da lahko nekatere rastline preživijo v slani vodi, ker izločajo odvečno sol.", "kategorija": "Narava"},
-  {"id": 331, "vsebina": "Ali veš, da imajo žolne zelo močne vratne mišice, ker večkrat na sekundo udarjajo v drevo?", "kategorija": "Živali"},
-  {"id": 332, "vsebina": "Si vedel, da so prve športne copate imenovali superge, ker so omogočale tiho hojo?", "kategorija": "Šport"},
-  {"id": 333, "vsebina": "Neverjetno, da lahko nekateri puščavski kuščarji zbirajo vodo skozi kožo, ker imajo posebne kanale med luskami.", "kategorija": "Živali"},
-  {"id": 334, "vsebina": "Ali veš, da imajo oblaki lahko različne barve ob sončnem zahodu, ker svetloba potuje skozi atmosfero pod različnimi koti?", "kategorija": "Narava"},
-  {"id": 335, "vsebina": "Si vedel, da je prvi računalniški disk uporabljal magnetno površino, ker je tako lahko shranjeval podatke?", "kategorija": "Tehnologija"},
-  {"id": 336, "vsebina": "Neverjetno, da lahko nekatere ptice letijo na višini letal, ker imajo zelo učinkovita pljuča.", "kategorija": "Živali"},
-  {"id": 337, "vsebina": "Ali veš, da ima Mars največji kanjon v Osončju, ker je njegova skorja zelo razpokana?", "kategorija": "Vesolje"},
-  {"id": 338, "vsebina": "Si vedel, da imajo nekatere vrste čebel sposobnost prepoznavanja človeških obrazov, ker si zapomnijo vzorce?", "kategorija": "Živali"},
-  {"id": 339, "vsebina": "Neverjetno, da lahko vulkanski otoki nastanejo sredi oceana, ker magma prodre skozi morsko dno.", "kategorija": "Narava"},
-  {"id": 340, "vsebina": "Ali veš, da je bil prvi elektronski poštni simbol afna izbran naključno, ker ga ljudje redko uporabljali?", "kategorija": "Tehnologija"},
-  {"id": 341, "vsebina": "Si vedel, da imajo nekatere vrste rakov sposobnost regeneracije klešč, ker jim zrastejo nove po poškodbi?", "kategorija": "Živali"},
-  {"id": 342, "vsebina": "Neverjetno, da lahko sneg duši zvok, ker zračni žepki med kristali absorbirajo vibracije.", "kategorija": "Narava"},
-  {"id": 343, "vsebina": "Ali veš, da imajo mačke sposobnost obračanja telesa med padanjem, ker uporabljajo refleks ravnotežja?", "kategorija": "Živali"},
-  {"id": 344, "vsebina": "Si vedel, da je bila prva olimpijska bakla uvedena šele v modernih igrah, ker so želeli simbolično povezavo z antično Grčijo?", "kategorija": "Šport"},
-  {"id": 345, "vsebina": "Neverjetno, da lahko nekatere rastline rastejo skozi beton, ker njihove korenine ustvarjajo močan pritisk.", "kategorija": "Narava"},
-  {"id": 346, "vsebina": "Ali veš, da imajo nekateri morski psi sposobnost svetljenja v temi, ker njihova koža oddaja bioluminiscenco?", "kategorija": "Živali"},
-  {"id": 347, "vsebina": "Si vedel, da je bil prvi računalniški disk velik kot pralni stroj, ker je vseboval ogromne mehanske dele?", "kategorija": "Tehnologija"},
-  {"id": 348, "vsebina": "Neverjetno, da lahko kometi razvijejo rep dolg milijone kilometrov, ker Sončev veter odpihuje delce ledu in prahu.", "kategorija": "Vesolje"},
-  {"id": 349, "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost spreminjanja barve med spanjem, ker se njihovi pigmenti premikajo?", "kategorija": "Živali"},
-  {"id": 350, "vsebina": "Si vedel, da lahko drevesa vplivajo na nastanek dežja, ker sproščajo vlago v atmosfero?", "kategorija": "Narava"},
-  {"id": 351, "vsebina": "Neverjetno, da lahko nekatere želve dihajo skozi zadnji del telesa, ker imajo posebne krvne žile za izmenjavo kisika.", "kategorija": "Živali"},
-  {"id": 352, "vsebina": "Ali veš, da imajo morski konjički rep podoben opičjemu, ker se z njim oprimejo rastlin?", "kategorija": "Živali"},
-  {"id": 353, "vsebina": "Si vedel, da so prve sončne očala uporabljali Inuiti, ker so želeli zmanjšati bleščanje snega?", "kategorija": "Zgodovina"},
-  {"id": 354, "vsebina": "Neverjetno, da lahko nekatere gobe rastejo po radioaktivnih območjih, ker uporabljajo sevanje kot vir energije.", "kategorija": "Narava"},
-  {"id": 355, "vsebina": "Ali veš, da imajo hobotnice devet možganov, ker ima vsaka lovka delno samostojen živčni sistem?", "kategorija": "Živali"},
-  {"id": 356, "vsebina": "Si vedel, da je bil prvi računalniški trdi disk težji od avtomobila, ker je uporabljal ogromne magnetne plošče?", "kategorija": "Tehnologija"},
-  {"id": 357, "vsebina": "Neverjetno, da lahko nekatere vrste bambusa preluknjajo asfalt, ker rastejo izjemno hitro in močno.", "kategorija": "Narava"},
-  {"id": 358, "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost ustvarjati zvoke, ker drgnejo dele telesa med seboj?", "kategorija": "Živali"},
-  {"id": 359, "vsebina": "Si vedel, da je Jupiterjeva rdeča pega stara več stoletij, ker gre za ogromno stabilno nevihto?", "kategorija": "Vesolje"},
-  {"id": 360, "vsebina": "Neverjetno, da lahko nekateri ptiči spijo med letom, ker del možganov ostane aktiven za navigacijo.", "kategorija": "Živali"},
-  {"id": 361, "vsebina": "Ali veš, da imajo kamele tri veke, ker jih ščitijo pred peskom v puščavi?", "kategorija": "Živali"},
-  {"id": 362, "vsebina": "Si vedel, da so stare civilizacije uporabljale med za konzerviranje hrane, ker preprečuje razvoj bakterij?", "kategorija": "Hrana"},
-  {"id": 363, "vsebina": "Neverjetno, da lahko lava ustvari črni pesek, ker se vulkanski minerali zdrobijo v drobna zrna.", "kategorija": "Narava"},
-  {"id": 364, "vsebina": "Ali veš, da imajo nekatere vrste sov ušesa na različnih višinah, ker lažje določijo smer plena?", "kategorija": "Živali"},
-  {"id": 365, "vsebina": "Si vedel, da je bil prvi računalniški virus napisan kot šala, ker avtor ni pričakoval širjenja?", "kategorija": "Tehnologija"},
-  {"id": 366, "vsebina": "Neverjetno, da lahko nekateri slapovi zamrznejo od znotraj navzven, ker se površina hitreje ohladi.", "kategorija": "Narava"},
-  {"id": 367, "vsebina": "Ali veš, da imajo pingvini posebno plast maščobe, ker jih ščiti pred ekstremnim mrazom?", "kategorija": "Živali"},
-  {"id": 368, "vsebina": "Si vedel, da je bila prva spletna domena registrirana leta 1985, ker se je internet takrat začel širiti?", "kategorija": "Tehnologija"},
-  {"id": 369, "vsebina": "Neverjetno, da lahko nekatere vrste rakov hodijo po drevesih, ker iščejo hrano nad tlemi.", "kategorija": "Živali"},
-  {"id": 370, "vsebina": "Ali veš, da imajo ledene gore večino mase pod vodo, ker je led le malo manj gost od vode?", "kategorija": "Narava"},
-  {"id": 371, "vsebina": "Si vedel, da so stari Egipčani uporabljali mačke za zaščito žita, ker so lovile glodavce?", "kategorija": "Zgodovina"},
-  {"id": 372, "vsebina": "Neverjetno, da lahko nekatere rastline preživijo v popolni temi več tednov, ker hranijo energijo v koreninah.", "kategorija": "Narava"},
-  {"id": 373, "vsebina": "Ali veš, da imajo žirafe modre jezike, ker pigment pomaga pri zaščiti pred soncem?", "kategorija": "Živali"},
-  {"id": 374, "vsebina": "Si vedel, da je prvi računalniški miškin kabel imel skoraj meter dolžine, ker računalniki niso bili prenosni?", "kategorija": "Tehnologija"},
-  {"id": 375, "vsebina": "Neverjetno, da lahko nekateri vulkani izbruhnejo pod ledeniki, ker magma tali led nad seboj.", "kategorija": "Narava"},
-  {"id": 376, "vsebina": "Ali veš, da imajo morski psi kožo podobno brusnemu papirju, ker je prekrita z drobnimi zobci?", "kategorija": "Živali"},
-  {"id": 377, "vsebina": "Si vedel, da je Saturnova luna Titan večja od planeta Merkur, ker vsebuje ogromne količine ledu?", "kategorija": "Vesolje"},
-  {"id": 378, "vsebina": "Neverjetno, da lahko nekatere vrste ptic letijo nazaj, ker imajo zelo gibljiva krila.", "kategorija": "Živali"},
-  {"id": 379, "vsebina": "Ali veš, da je bil prvi kalkulator velik kot miza, ker je uporabljal mehanske zobnike?", "kategorija": "Tehnologija"},
-  {"id": 380, "vsebina": "Si vedel, da lahko morska voda zamrzne pri nižji temperaturi kot sladka, ker sol spremeni ledišče?", "kategorija": "Narava"},
-  {"id": 381, "vsebina": "Neverjetno, da imajo sloni sposobnost žalovanja, ker si zapomnijo izgubljene člane črede.", "kategorija": "Živali"},
-  {"id": 382, "vsebina": "Ali veš, da so prvi športni copati imeli podplate iz gume za kolesa, ker drugih materialov niso uporabljali?", "kategorija": "Šport"},
-  {"id": 383, "vsebina": "Si vedel, da imajo nekatere rastline sposobnost ustvarjati toploto, ker pospešijo kemične reakcije?", "kategorija": "Narava"},
-  {"id": 384, "vsebina": "Neverjetno, da lahko nekatere ribe živijo v jamah brez oči, ker v temi vid ni potreben.", "kategorija": "Živali"},
-  {"id": 385, "vsebina": "Ali veš, da je bila prva video igra brez zvoka, ker računalniki niso podpirali zvočnih učinkov?", "kategorija": "Tehnologija"},
-  {"id": 386, "vsebina": "Si vedel, da imajo severni medvedi prozorno dlako, ker svetloba potuje skozi votla vlakna?", "kategorija": "Živali"},
-  {"id": 387, "vsebina": "Neverjetno, da lahko puščavski vetrovi ustvarijo peščene valove, ker pesek premikajo v enakomernih vzorcih.", "kategorija": "Narava"},
-  {"id": 388, "vsebina": "Ali veš, da imajo čebele sposobnost prepoznavanja simetrije, ker jim pomaga pri iskanju cvetov?", "kategorija": "Živali"},
-  {"id": 389, "vsebina": "Si vedel, da je bila prva elektronska pošta poslana med dvema računalnikoma v isti sobi, ker internet še ni bil razširjen?", "kategorija": "Tehnologija"},
-  {"id": 390, "vsebina": "Neverjetno, da lahko nekateri minerali svetijo pod UV svetlobo, ker vsebujejo posebne kemične elemente.", "kategorija": "Narava"},
-  {"id": 391, "vsebina": "Ali veš, da imajo papige zelo močan kljun, ker lahko z njim lomijo trde orehe?", "kategorija": "Živali"},
-  {"id": 392, "vsebina": "Si vedel, da je bil prvi olimpijski stadion zgrajen iz zemlje, ker beton še ni bil pogost material?", "kategorija": "Šport"},
-  {"id": 393, "vsebina": "Neverjetno, da lahko nekateri gozdovi ustvarjajo lastne oblake, ker drevesa sproščajo veliko vlage.", "kategorija": "Narava"},
-  {"id": 394, "vsebina": "Ali veš, da imajo hobotnice sposobnost stiskanja skozi zelo majhne odprtine, ker nimajo kosti?", "kategorija": "Živali"},
-  {"id": 395, "vsebina": "Si vedel, da je bil prvi računalniški ekran zelen, ker so takšni monitorji porabili manj energije?", "kategorija": "Tehnologija"},
-  {"id": 396, "vsebina": "Neverjetno, da lahko nekatere rastline preživijo požar in ponovno zrastejo, ker imajo zaščitena semena.", "kategorija": "Narava"},
-  {"id": 397, "vsebina": "Ali veš, da imajo netopirji najdaljšo življenjsko dobo med majhnimi sesalci, ker počasneje starajo celice?", "kategorija": "Živali"},
-  {"id": 398, "vsebina": "Si vedel, da je na Veneri dež iz žveplove kisline, ker atmosfera vsebuje veliko žvepla?", "kategorija": "Vesolje"},
-  {"id": 399, "vsebina": "Neverjetno, da lahko nekateri pajki hodijo po vodi, ker njihova telesa odbijajo tekočino.", "kategorija": "Živali"},
-  {"id": 400, "vsebina": "Ali veš, da so prve knjige pogosto priklenili na police, ker so bile zelo dragocene?", "kategorija": "Zgodovina"},
-  {"id": 401, "vsebina": "Si vedel, da imajo nekatere vrste rib sposobnost kamuflaže kot hobotnice, ker spreminjajo barvo kože?", "kategorija": "Živali"},
-  {"id": 402, "vsebina": "Neverjetno, da lahko sneg včasih izgleda moder, ker led absorbira rdečo svetlobo.", "kategorija": "Narava"},
-  {"id": 403, "vsebina": "Ali veš, da je bil prvi računalniški disk izdelan iz aluminija, ker je moral biti magneten in trden?", "kategorija": "Tehnologija"},
-  {"id": 404, "vsebina": "Si vedel, da imajo delfini sposobnost zdravljenja ran hitreje kot ljudje, ker njihova koža hitro obnavlja tkivo?", "kategorija": "Živali"},
-  {"id": 405, "vsebina": "Neverjetno, da lahko nekateri ledeniki oddajajo zvoke podobne pokanju, ker se led premika in lomi.", "kategorija": "Narava"},
-  {"id": 406, "vsebina": "Ali veš, da imajo človeški možgani dovolj električne energije za majhno žarnico, ker nevroni pošiljajo električne impulze?", "kategorija": "Narava"},
-  {"id": 407, "vsebina": "Si vedel, da so prvi računalniški virusi potovali prek disket po pošti, ker internet še ni bil vsakdanji?", "kategorija": "Tehnologija"},
-  {"id": 408, "vsebina": "Neverjetno, da lahko nekatere kače letijo med drevesi, ker sploščijo telo za drsenje po zraku.", "kategorija": "Živali"},
-  {"id": 409, "vsebina": "Ali veš, da imajo nekateri slapovi rožnato barvo, ker vsebujejo alge ali minerale?", "kategorija": "Narava"},
-  {"id": 410, "vsebina": "Si vedel, da je bil prvi športni dres iz volne, ker sintetičnih tkanin še niso poznali?", "kategorija": "Šport"},
-  {"id": 411, "vsebina": "Neverjetno, da lahko nekatere ptice posnemajo zvoke motornih žag, ker si zapomnijo slišane zvoke.", "kategorija": "Živali"},
-  {"id": 412, "vsebina": "Ali veš, da ima Uran skoraj ležečo os vrtenja, ker ga je verjetno zadelo veliko nebesno telo?", "kategorija": "Vesolje"},
-  {"id": 413, "vsebina": "Si vedel, da imajo nekateri gozdovi drevesa starejša od piramid, ker rastejo zelo počasi?", "kategorija": "Narava"},
-  {"id": 414, "vsebina": "Neverjetno, da lahko nekatere ribe dihajo zrak, ker imajo posebne organe podobne pljučem.", "kategorija": "Živali"},
-  {"id": 415, "vsebina": "Ali veš, da je bil prvi telefon brez številčnice, ker so povezave vzpostavljali operaterji?", "kategorija": "Tehnologija"},
-  {"id": 416, "vsebina": "Si vedel, da imajo sove sposobnost obračanja glave skoraj za cel krog, ker imajo zelo gibljiv vrat?", "kategorija": "Živali"},
-  {"id": 417, "vsebina": "Neverjetno, da lahko nekateri oblaki tehtajo več sto ton, ker vsebujejo ogromno kapljic vode.", "kategorija": "Narava"},
-  {"id": 418, "vsebina": "Ali veš, da so stari Rimljani uporabljali golobe za športna tekmovanja, ker so cenili njihovo hitrost?", "kategorija": "Šport"},
-  {"id": 419, "vsebina": "Si vedel, da imajo nekatere vrste čebel sposobnost segrevanja panja, ker premikajo mišice brez letenja?", "kategorija": "Živali"},
-  {"id": 420, "vsebina": "Neverjetno, da lahko meteorski kraterji ostanejo vidni milijone let, ker erozija tam poteka zelo počasi.", "kategorija": "Vesolje"},
-  {"id": 421, "vsebina": "Ali veš, da imajo nekatere rastline liste, ki odbijajo vodo, ker njihova površina vsebuje mikroskopske strukture?", "kategorija": "Narava"},
-  {"id": 422, "vsebina": "Si vedel, da je bil prvi računalniški modem počasnejši od današnjega tipkanja, ker je prenašal zelo malo podatkov?", "kategorija": "Tehnologija"},
-  {"id": 423, "vsebina": "Neverjetno, da lahko nekatere vrste mravelj gojijo glive, ker jih uporabljajo kot hrano.", "kategorija": "Živali"},
-  {"id": 424, "vsebina": "Ali veš, da imajo puščavske lisice velika ušesa, ker z njimi oddajajo toploto?", "kategorija": "Živali"},
-  {"id": 425, "vsebina": "Si vedel, da je bila prva kamera obscura velika kot soba, ker je za projekcijo potrebovala velik prostor?", "kategorija": "Tehnologija"},
-  {"id": 426, "vsebina": "Neverjetno, da lahko nekateri ledeniki premikajo ogromne skale, ker jih led počasi potiska naprej.", "kategorija": "Narava"},
-  {"id": 427, "vsebina": "Ali veš, da imajo nekateri morski organizmi prozorna telesa, ker se tako skrijejo pred plenilci?", "kategorija": "Živali"},
-  {"id": 428, "vsebina": "Si vedel, da je bila prva olimpijska medalja brez traku, ker so jo športnikom podali v roke?", "kategorija": "Šport"},
-  {"id": 429, "vsebina": "Neverjetno, da lahko nekatere vrste alg proizvajajo kisik tudi pod ledom, ker izvajajo fotosintezo pri nizkih temperaturah.", "kategorija": "Narava"},
-  {"id": 430, "vsebina": "Ali veš, da imajo krokodili zelo občutljivo kožo okoli čeljusti, ker zaznavajo vibracije v vodi?", "kategorija": "Živali"},
-  {"id": 431, "vsebina": "Si vedel, da je bil prvi računalniški program shranjen na luknjanih karticah, ker magnetni mediji še niso obstajali?", "kategorija": "Tehnologija"},
-  {"id": 432, "vsebina": "Neverjetno, da lahko nekatere puščave cvetijo po dežju, ker semena dolgo čakajo pod peskom.", "kategorija": "Narava"},
-  {"id": 433, "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost ustvarjanja svetlobe, ker v telesu gostijo svetleče bakterije?", "kategorija": "Živali"},
-  {"id": 434, "vsebina": "Si vedel, da je Sonce belo in ne rumeno, ker atmosfera Zemlje razprši modro svetlobo?", "kategorija": "Vesolje"},
-  {"id": 435, "vsebina": "Neverjetno, da lahko nekatere rastline zaprejo liste ob dotiku, ker hitro premikajo vodo v celicah.", "kategorija": "Narava"},
-  {"id": 436, "vsebina": "Ali veš, da imajo hobotnice sposobnost okušanja z lovkami, ker vsebujejo kemične receptorje?", "kategorija": "Živali"},
-  {"id": 437, "vsebina": "Si vedel, da je bil prvi elektronski kalkulator dražji od avtomobila, ker je vseboval veliko redkih komponent?", "kategorija": "Tehnologija"},
-  {"id": 438, "vsebina": "Neverjetno, da lahko nekatere vrste ptic uporabljajo promet za lomljenje orehov, ker orehe spustijo na cesto.", "kategorija": "Živali"},
-  {"id": 439, "vsebina": "Ali veš, da imajo nekateri slapovi podzemne izvore, ker voda teče skozi jame?", "kategorija": "Narava"},
-  {"id": 440, "vsebina": "Si vedel, da je bil prvi elektronski športni rezultat prikazan na mehanskem semaforju, ker digitalni zasloni še niso obstajali?", "kategorija": "Šport"},
-  {"id": 441, "vsebina": "Neverjetno, da lahko nekateri vulkani ustvarijo nove plaže, ker lava po ohladitvi razpade v pesek.", "kategorija": "Narava"},
-  {"id": 442, "vsebina": "Ali veš, da imajo žabe oči, ki jim pomagajo pri požiranju hrane, ker z njimi potisnejo plen v grlo?", "kategorija": "Živali"},
-  {"id": 443, "vsebina": "Si vedel, da je bila prva tipkovnica razporejena po vzoru pisalnih strojev, ker so želeli preprečiti zatikanje tipk?", "kategorija": "Tehnologija"},
-  {"id": 444, "vsebina": "Neverjetno, da lahko nekatere vrste dreves preživijo udar strele, ker imajo debelo zaščitno skorjo.", "kategorija": "Narava"},
-  {"id": 445, "vsebina": "Ali veš, da imajo severni jeleni posebne nosove za ogrevanje zraka, ker živijo v zelo hladnem okolju?", "kategorija": "Živali"},
-  {"id": 446, "vsebina": "Si vedel, da je bil prvi računalniški monitor enobarven, ker barvna tehnologija še ni bila razvita?", "kategorija": "Tehnologija"},
-  {"id": 447, "vsebina": "Neverjetno, da lahko nekateri oceanski valovi nastanejo zaradi potresov, ker premiki morskega dna premaknejo ogromne količine vode.", "kategorija": "Narava"},
-  {"id": 448, "vsebina": "Ali veš, da imajo nekatere vrste kač sposobnost zaznave infrardeče toplote, ker lovijo toplokrvni plen?", "kategorija": "Živali"},
-  {"id": 449, "vsebina": "Si vedel, da je bil prvi satelit slišen po radiu, ker je oddajal preprost signal?", "kategorija": "Vesolje"},
-  {"id": 450, "vsebina": "Neverjetno, da lahko nekatere vrste koral živijo več sto let, ker rastejo zelo počasi.", "kategorija": "Narava"},
-  {"id": 451, "vsebina": "Ali veš, da imajo nekatere vrste metuljev prozorna krila, ker so luske na njih zelo redke?", "kategorija": "Živali"},
-  {"id": 452, "vsebina": "Si vedel, da je bil prvi digitalni fotoaparat težak več kilogramov, ker je uporabljal velike elektronske komponente?", "kategorija": "Tehnologija"},
-  {"id": 453, "vsebina": "Neverjetno, da lahko nekateri slapovi ustvarjajo mavrice tudi ponoči, ker mesečina osvetli vodne kapljice.", "kategorija": "Narava"},
-  {"id": 454, "vsebina": "Ali veš, da imajo sloni sposobnost medsebojnega prepoznavanja po glasu, ker uporabljajo zelo nizke frekvence?", "kategorija": "Živali"},
-  {"id": 455, "vsebina": "Si vedel, da je bila prva računalniška igra ustvarjena na osciloskopu, ker monitorji še niso obstajali?", "kategorija": "Tehnologija"},
-  {"id": 456, "vsebina": "Neverjetno, da lahko nekateri vulkani izločajo kristale, ker se minerali ohlajajo v lavi.", "kategorija": "Narava"},
-  {"id": 457, "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost prepoznavanja ogledala, ker imajo razvito samozavedanje?", "kategorija": "Živali"},
-  {"id": 458, "vsebina": "Si vedel, da je na Marsu sončni zahod moder, ker prah v atmosferi razprši rdečo svetlobo?", "kategorija": "Vesolje"},
-  {"id": 459, "vsebina": "Neverjetno, da lahko nekatere rastline rastejo na kamnih, ker dobijo hranila iz dežja in zraka.", "kategorija": "Narava"},
-  {"id": 460, "vsebina": "Ali veš, da imajo morski psi stalno menjavo zob, ker jim novi zobje rastejo vse življenje?", "kategorija": "Živali"},
-  {"id": 461, "vsebina": "Si vedel, da je bil prvi spletni brskalnik sposoben tudi urejanja strani, ker so želeli lažje ustvarjati vsebine?", "kategorija": "Tehnologija"},
-  {"id": 462, "vsebina": "Neverjetno, da lahko nekateri ledeniki postanejo modri, ker gost led absorbira rdečo svetlobo.", "kategorija": "Narava"},
-  {"id": 463, "vsebina": "Ali veš, da imajo delfini sposobnost spanja z eno polovico možganov, ker morajo ostati pozorni za dihanje?", "kategorija": "Živali"},
-  {"id": 464, "vsebina": "Si vedel, da je bil prvi telefon brez zvonjenja, ker so uporabnike opozarjali operaterji?", "kategorija": "Tehnologija"},
-  {"id": 465, "vsebina": "Neverjetno, da lahko nekatere vrste alg obarvajo sneg rdeče, ker vsebujejo posebne pigmente.", "kategorija": "Narava"},
-  {"id": 466, "vsebina": "Ali veš, da imajo netopirji sposobnost zaznavanja razdalje z zvokom, ker uporabljajo eholokacijo?", "kategorija": "Živali"},
-  {"id": 467, "vsebina": "Si vedel, da je bil prvi olimpijski maraton organiziran po legendi o grškem tekaču, ker so želeli obuditi zgodovinski dogodek?", "kategorija": "Šport"},
-  {"id": 468, "vsebina": "Neverjetno, da lahko nekatere puščave vsebujejo fosile morskih živali, ker so bile nekoč pod oceanom.", "kategorija": "Narava"},
-  {"id": 469, "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost ustvarjanja električnega polja, ker se orientirajo v motni vodi?", "kategorija": "Živali"},
-  {"id": 470, "vsebina": "Si vedel, da je bil prvi računalniški disk velik kot hladilnik, ker so magnetni sistemi zahtevali veliko prostora?", "kategorija": "Tehnologija"},
-  {"id": 471, "vsebina": "Neverjetno, da lahko nekateri gozdovi preživijo stoletne požare, ker imajo drevesa ognjeodporno skorjo.", "kategorija": "Narava"},
-  {"id": 472, "vsebina": "Ali veš, da imajo papige sposobnost učenja več sto besed, ker imajo zelo razvite možgane za zvok?", "kategorija": "Živali"},
-  {"id": 473, "vsebina": "Si vedel, da je Luna vsako leto malo bolj oddaljena od Zemlje, ker plimovanje vpliva na njeno orbito?", "kategorija": "Vesolje"},
-  {"id": 474, "vsebina": "Neverjetno, da lahko nekatere rastline preživijo zamrznitev, ker njihove celice vsebujejo naravni antifriz.", "kategorija": "Narava"},
-  {"id": 475, "vsebina": "Ali veš, da imajo krokodili sposobnost dolgo časa ostati pod vodo, ker upočasnijo srčni utrip?", "kategorija": "Živali"},
-  {"id": 476, "vsebina": "Si vedel, da je bil prvi računalniški virus ustvarjen za prikaz varnostnih pomanjkljivosti, ker so raziskovalci testirali sisteme?", "kategorija": "Tehnologija"},
-  {"id": 477, "vsebina": "Neverjetno, da lahko nekateri slapovi izginejo pod zemljo, ker voda odteka v kraške jame.", "kategorija": "Narava"},
-  {"id": 478, "vsebina": "Ali veš, da imajo mačke sposobnost slišati ultrazvočne frekvence, ker lovijo majhne glodavce?", "kategorija": "Živali"},
-  {"id": 479, "vsebina": "Si vedel, da so prvi zemljevidi sveta pogosto prikazovali pošasti, ker raziskovalci niso poznali oddaljenih krajev?", "kategorija": "Zgodovina"},
-  {"id": 480, "vsebina": "Neverjetno, da lahko nekateri kristali rastejo tisoče let, ker se minerali počasi nalagajo.", "kategorija": "Narava"},
-  {"id": 481, "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost prepoznavanja človeških obrazov, ker si zapomnijo nevarnosti?", "kategorija": "Živali"},
-  {"id": 482, "vsebina": "Si vedel, da je bil prvi računalniški zaslon narejen iz katodne cevi, ker druge tehnologije še niso obstajale?", "kategorija": "Tehnologija"},
-  {"id": 483, "vsebina": "Neverjetno, da lahko nekatere vrste dreves komunicirajo preko gliv, ker si izmenjujejo hranila in opozorila.", "kategorija": "Narava"},
-  {"id": 484, "vsebina": "Ali veš, da imajo hobotnice tri srca, ker dve srci oskrbujeta škrge, eno pa telo?", "kategorija": "Živali"},
-  {"id": 485, "vsebina": "Si vedel, da je bil prvi spletni strežnik postavljen v raziskovalnem centru CERN, ker so znanstveniki želeli deliti informacije?", "kategorija": "Tehnologija"},
-  {"id": 486, "vsebina": "Neverjetno, da lahko nekatere gore ustvarjajo lastne nevihte, ker vplivajo na dvigovanje zraka.", "kategorija": "Narava"},
-  {"id": 487, "vsebina": "Ali veš, da imajo severni medvedi črn nos za boljše vpijanje toplote, ker temna barva bolje absorbira sonce?", "kategorija": "Živali"},
-  {"id": 488, "vsebina": "Si vedel, da je na Saturnovi luni Enceladus voda v tekočem stanju, ker notranja toplota tali led?", "kategorija": "Vesolje"},
-  {"id": 489, "vsebina": "Neverjetno, da lahko nekatere rastline ujamejo žuželke v manj kot sekundi, ker hitro premikajo liste.", "kategorija": "Narava"},
-  {"id": 490, "vsebina": "Ali veš, da imajo čebele sposobnost prepoznavanja časa, ker si zapomnijo urnik cvetenja?", "kategorija": "Živali"},
-  {"id": 491, "vsebina": "Si vedel, da je bil prvi računalniški program napisan za analitični stroj, ker so želeli avtomatizirati izračune?", "kategorija": "Tehnologija"},
-  {"id": 492, "vsebina": "Neverjetno, da lahko nekateri slapovi ustvarjajo ledne jame, ker voda zamrzne okoli toka.", "kategorija": "Narava"},
-  {"id": 493, "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost hoje po kopnem, ker uporabljajo močne plavuti?", "kategorija": "Živali"},
-  {"id": 494, "vsebina": "Si vedel, da je bil prvi olimpijski ogenj prižgan s sončnimi žarki, ker so želeli simbolično čistost plamena?", "kategorija": "Šport"},
-  {"id": 495, "vsebina": "Neverjetno, da lahko nekateri vulkani povzročijo globalno ohladitev, ker pepel blokira sončno svetlobo.", "kategorija": "Narava"},
-  {"id": 496, "vsebina": "Ali veš, da imajo sove skoraj neslišen let, ker imajo mehka peresa za zmanjšanje hrupa?", "kategorija": "Živali"},
-  {"id": 497, "vsebina": "Si vedel, da je bil prvi računalniški modem povezan prek telefonske linije, ker druge komunikacijske mreže niso obstajale?", "kategorija": "Tehnologija"},
-  {"id": 498, "vsebina": "Neverjetno, da lahko nekatere puščave ponoči dosežejo temperature pod ničlo, ker pesek hitro odda toploto.", "kategorija": "Narava"},
-  {"id": 499, "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost uporabe orodja, ker znajo reševati kompleksne naloge?", "kategorija": "Živali"},
-  {"id": 500, "vsebina": "Si vedel, da je prvi računalniški jezik uporabljal luknjane kartice, ker tipkovnice še niso bile standard?", "kategorija": "Tehnologija"},
-  {"id": 501, "vsebina": "Neverjetno, da lahko nekatere rastline rastejo v skoraj popolni temi, ker hranijo energijo v koreninah.", "kategorija": "Narava"},
-  {"id": 502, "vsebina": "Ali veš, da imajo delfini poseben žvižg za vsakega člana skupine, ker si tako sporočajo identiteto?", "kategorija": "Živali"},
-  {"id": 503, "vsebina": "Si vedel, da je bil prvi satelit brez posadke velik le kot žoga, ker je imel zelo omejeno opremo?", "kategorija": "Vesolje"},
-  {"id": 504, "vsebina": "Neverjetno, da lahko nekateri gozdovi vplivajo na lokalno vreme, ker sproščajo ogromno vlage.", "kategorija": "Narava"},
-  {"id": 505, "vsebina": "Ali veš, da imajo nekatere vrste kuščarjev sposobnost hoje po vodi, ker hitro premikajo noge?", "kategorija": "Živali"},
-  {"id": 506, "vsebina": "Si vedel, da je bil prvi elektronski kalkulator počasnejši od današnjega telefona, ker je uporabljal velike tranzistorje?", "kategorija": "Tehnologija"},
-  {"id": 507, "vsebina": "Neverjetno, da lahko nekatere vrste koral svetijo ponoči, ker vsebujejo fluorescentne beljakovine.", "kategorija": "Narava"},
-  {"id": 508, "vsebina": "Ali veš, da imajo netopirji zelo močan imunski sistem, ker prenašajo številne viruse brez bolezni?", "kategorija": "Živali"},
-  {"id": 509, "vsebina": "Si vedel, da je bil prvi računalniški zaslon sposoben prikazati le nekaj vrstic besedila, ker je imel nizko ločljivost?", "kategorija": "Tehnologija"},
-  {"id": 510, "vsebina": "Neverjetno, da lahko nekateri minerali tvorijo popolne kocke, ker se kristali zlagajo po pravilnih vzorcih.", "kategorija": "Narava"},
-  {"id": 511, "vsebina": "Ali veš, da imajo morski konjički sposobnost spreminjanja barve, ker se prilagajajo okolici?", "kategorija": "Živali"},
-  {"id": 512, "vsebina": "Si vedel, da je bil prvi internet namenjen raziskovalcem, ker so želeli hitro deliti podatke?", "kategorija": "Tehnologija"},
-  {"id": 513, "vsebina": "Neverjetno, da lahko nekatere rastline preživijo v zelo slani vodi, ker izločajo odvečno sol skozi liste.", "kategorija": "Narava"},
-  {"id": 514, "vsebina": "Ali veš, da imajo mačke posebne brke za orientacijo, ker zaznavajo spremembe v zraku?", "kategorija": "Živali"},
-  {"id": 515, "vsebina": "Si vedel, da je na Merkurju temperatura ponoči izjemno nizka, ker skoraj nima atmosfere?", "kategorija": "Vesolje"},
-  {"id": 516, "vsebina": "Neverjetno, da lahko nekateri slapovi ustvarijo meglico vidno kilometre daleč, ker drobne kapljice odbijajo svetlobo.", "kategorija": "Narava"},
-  {"id": 517, "vsebina": "Ali veš, da imajo žolne poseben jezik, ki se ovije okoli lobanje, ker blaži udarce pri kljuvanju?", "kategorija": "Živali"},
-  {"id": 518, "vsebina": "Si vedel, da je bil prvi mobilni telefon večji od opeke, ker baterije še niso bile majhne?", "kategorija": "Tehnologija"},
-  {"id": 519, "vsebina": "Neverjetno, da lahko nekatere vrste alg proizvajajo svetlobo ob valovanju, ker vsebujejo bioluminiscenčne celice.", "kategorija": "Narava"},
-  {"id": 520, "vsebina": "Ali veš, da imajo krokodili sposobnost menjave zob več desetkrat, ker jim novi zobje rastejo vse življenje?", "kategorija": "Živali"},
-  {"id": 521, "vsebina": "Si vedel, da je bil prvi televizijski zaslon manjši od današnjega telefona, ker tehnologija še ni omogočala večjih zaslonov?", "kategorija": "Tehnologija"},
-  {"id": 522, "vsebina": "Neverjetno, da lahko nekatere rastline rastejo v vročih vrelcih, ker so prilagojene ekstremni temperaturi.", "kategorija": "Narava"},
-  {"id": 523, "vsebina": "Ali veš, da imajo sloni sposobnost prepoznavanja sebe v ogledalu, ker imajo razvito samozavedanje?", "kategorija": "Živali"},
-  {"id": 524, "vsebina": "Si vedel, da je bila prva spletna stran sestavljena samo iz besedila, ker slike še niso bile podprte?", "kategorija": "Tehnologija"},
-  {"id": 525, "vsebina": "Neverjetno, da lahko nekateri oceanski tokovi vplivajo na podnebje celin, ker prenašajo toploto po svetu.", "kategorija": "Narava"},
-  {"id": 526, "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost ustvarjanja zvokov za komunikacijo, ker vibrirajo mišice ob plavalnem mehurju?", "kategorija": "Živali"},
-  {"id": 527, "vsebina": "Si vedel, da je bil prvi digitalni računalnik programiran s kabli, ker programski jeziki še niso obstajali?", "kategorija": "Tehnologija"},
-  {"id": 528, "vsebina": "Neverjetno, da lahko nekateri vulkani ustvarijo strele v oblaku pepela, ker trenje med delci ustvari električni naboj.", "kategorija": "Narava"},
-  {"id": 529, "vsebina": "Ali veš, da imajo nekatere vrste pajkov sposobnost plavanja, ker zadržujejo zrak okoli telesa?", "kategorija": "Živali"},
-  {"id": 530, "vsebina": "Si vedel, da je bil prvi nogomet igran z živalskim mehurjem, ker prave žoge še niso obstajale?", "kategorija": "Šport"},
-  {"id": 531, "vsebina": "Neverjetno, da lahko nekatere vrste dreves preživijo tisoče let, ker rastejo zelo počasi in odporne na bolezni.", "kategorija": "Narava"},
-  {"id": 532, "vsebina": "Ali veš, da imajo flamingi dolge noge za hojo po plitvi vodi, ker tam iščejo hrano?", "kategorija": "Živali"},
-  {"id": 533, "vsebina": "Si vedel, da je bil prvi računalniški virus manjši od današnje slike, ker je imel zelo preprosto kodo?", "kategorija": "Tehnologija"},
-  {"id": 534, "vsebina": "Neverjetno, da lahko nekatere rastline proizvajajo strupene snovi, ker se branijo pred rastlinojedci.", "kategorija": "Narava"},
-  {"id": 535, "vsebina": "Ali veš, da imajo pingvini sposobnost prepoznavanja partnerja po glasu, ker živijo v ogromnih kolonijah?", "kategorija": "Živali"},
-  {"id": 536, "vsebina": "Si vedel, da je bila prva računalniška miška izdelana iz lesa, ker plastika še ni bila standardna?", "kategorija": "Tehnologija"},
-  {"id": 537, "vsebina": "Neverjetno, da lahko nekateri slapovi pozimi ustvarijo ledene stolpe, ker voda počasi zamrzne okoli toka.", "kategorija": "Narava"},
-  {"id": 538, "vsebina": "Ali veš, da imajo volkovi sposobnost preteči več deset kilometrov na dan, ker so prilagojeni dolgemu lovu?", "kategorija": "Živali"},
-  {"id": 539, "vsebina": "Si vedel, da je bil prvi spletni iskalnik zelo preprost seznam datotek, ker splet še ni imel veliko strani?", "kategorija": "Tehnologija"},
-  {"id": 540, "vsebina": "Neverjetno, da lahko nekateri oceani ponoči svetijo modro, ker vsebujejo bioluminiscenčne organizme.", "kategorija": "Narava"},
-  {"id": 541, "vsebina": "Ali veš, da imajo nekatere vrste čebel sposobnost plesanja za smer, ker tako pokažejo lokacijo hrane?", "kategorija": "Živali"},
-  {"id": 542, "vsebina": "Si vedel, da je bil prvi digitalni zemljevid ustvarjen za vojsko, ker so potrebovali natančno navigacijo?", "kategorija": "Tehnologija"},
-  {"id": 543, "vsebina": "Neverjetno, da lahko nekatere puščavske rastline preživijo leta brez dežja, ker shranjujejo vodo v tkivih.", "kategorija": "Narava"},
-  {"id": 544, "vsebina": "Ali veš, da imajo hobotnice sposobnost regeneracije lovk, ker njihovo telo hitro obnavlja tkivo?", "kategorija": "Živali"},
-  {"id": 545, "vsebina": "Si vedel, da je bil prvi računalniški procesor počasnejši od današnje ure, ker je imel zelo malo tranzistorjev?", "kategorija": "Tehnologija"},
-  {"id": 546, "vsebina": "Neverjetno, da lahko nekateri gozdovi proizvedejo dovolj kisika za milijone ljudi, ker drevesa izvajajo fotosintezo.", "kategorija": "Narava"},
-  {"id": 547, "vsebina": "Ali veš, da imajo nekatere vrste rib prozorne glave, ker tako lažje opazujejo plen?", "kategorija": "Živali"},
-  {"id": 548, "vsebina": "Si vedel, da je bil prvi elektronski računalnik hlajen z ventilatorji velikosti omare, ker se je močno segreval?", "kategorija": "Tehnologija"},
-  {"id": 549, "vsebina": "Neverjetno, da lahko nekateri slapovi popolnoma izginejo v sušnem obdobju, ker njihov izvir presahne.", "kategorija": "Narava"},
-  {"id": 550, "vsebina": "Ali veš, da imajo morski levi sposobnost spanja v vodi, ker med počitkom uporabljajo plavuti za lebdenje?", "kategorija": "Živali"},
-  {"id": 551, "vsebina": "Si vedel, da je bil prvi računalniški zaslon sposoben prikazati samo zelene črke, ker je bila takšna tehnologija najcenejša?", "kategorija": "Tehnologija"},
-  {"id": 552, "vsebina": "Neverjetno, da lahko nekatere rastline ustvarijo semena, ki preživijo stoletja, ker ostanejo v stanju mirovanja.", "kategorija": "Narava"},
-  {"id": 553, "vsebina": "Ali veš, da imajo kamele sposobnost zapiranja nosnic, ker se tako zaščitijo pred peskom?", "kategorija": "Živali"},
-  {"id": 554, "vsebina": "Si vedel, da je bil prvi internetni prenos počasnejši od današnjega pošiljanja fotografije, ker je imel zelo majhno pasovno širino?", "kategorija": "Tehnologija"},
-  {"id": 555, "vsebina": "Neverjetno, da lahko nekateri ledeniki premikajo cele doline, ker ogromna masa ledu počasi drsi.", "kategorija": "Narava"},
-  {"id": 556, "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost spanja med letenjem, ker polovica možganov ostane budna?", "kategorija": "Živali"},
-  {"id": 557, "vsebina": "Si vedel, da je bil prvi spletni video dolg le nekaj sekund, ker internet ni podpiral velikih datotek?", "kategorija": "Tehnologija"},
-  {"id": 558, "vsebina": "Neverjetno, da lahko nekatere puščave vsebujejo podzemna jezera, ker voda ostane ujeta pod kamninami.", "kategorija": "Narava"},
-  {"id": 559, "vsebina": "Ali veš, da imajo čmrlji sposobnost vibriranja cvetov, ker tako lažje sprostijo cvetni prah?", "kategorija": "Živali"},
-  {"id": 560, "vsebina": "Si vedel, da je bil prvi računalniški disk zamenljiv šele po več letih razvoja, ker so bili sistemi zelo veliki?", "kategorija": "Tehnologija"},
-  {"id": 561, "vsebina": "Neverjetno, da lahko nekateri vulkani pod morjem ustvarijo nove otoke, ker se lava kopiči nad gladino.", "kategorija": "Narava"},
-  {"id": 562, "vsebina": "Ali veš, da imajo delfini sposobnost prepoznavanja lastnega odseva, ker imajo razvito samozavedanje?", "kategorija": "Živali"},
-  {"id": 563, "vsebina": "Si vedel, da je bil prvi računalniški tiskalnik glasnejši od sesalca, ker je uporabljal mehanske udarce?", "kategorija": "Tehnologija"},
-  {"id": 564, "vsebina": "Neverjetno, da lahko nekatere vrste dreves rastejo iz štorov, ker korenine ostanejo žive po poseku.", "kategorija": "Narava"},
-  {"id": 565, "vsebina": "Ali veš, da imajo nekatere vrste kač sposobnost zaznavanja potresov, ker čutijo vibracije tal?", "kategorija": "Živali"},
-  {"id": 566, "vsebina": "Si vedel, da je bil prvi računalniški program napisan brez zaslona, ker so rezultate tiskali na papir?", "kategorija": "Tehnologija"},
-  {"id": 567, "vsebina": "Neverjetno, da lahko nekateri oblaki povzročijo točo velikosti teniške žogice, ker močni vetrovi dvigujejo ledene delce.", "kategorija": "Narava"},
-  {"id": 568, "vsebina": "Ali veš, da imajo žirafe zelo visok krvni tlak, ker morajo potiskati kri do glave?", "kategorija": "Živali"},
-  {"id": 569, "vsebina": "Si vedel, da je bil prvi računalniški zvok ustvarjen z enostavnim piskom, ker zvočne kartice še niso obstajale?", "kategorija": "Tehnologija"},
-  {"id": 570, "vsebina": "Neverjetno, da lahko nekateri slapovi tečejo rdeče, ker voda vsebuje veliko železa.", "kategorija": "Narava"},
-  {"id": 571, "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost menjave spola večkrat v življenju, ker se prilagajajo skupini?", "kategorija": "Živali"},
-  {"id": 572, "vsebina": "Si vedel, da je bil prvi elektronski zemljevid ustvarjen za vesoljske misije, ker so potrebovali natančne izračune?", "kategorija": "Tehnologija"},
-  {"id": 573, "vsebina": "Neverjetno, da lahko nekateri gozdovi preživijo poplave več mesecev, ker imajo drevesa prilagojene korenine.", "kategorija": "Narava"},
-  {"id": 574, "vsebina": "Ali veš, da imajo pingvini sposobnost drsenja po trebuhu, ker tako prihranijo energijo?", "kategorija": "Živali"},
-  {"id": 575, "vsebina": "Si vedel, da je bil prvi računalniški procesor izdelan ročno, ker avtomatizirana proizvodnja še ni obstajala?", "kategorija": "Tehnologija"},
-  {"id": 576, "vsebina": "Neverjetno, da lahko nekatere rastline oddajajo vonj po gnilobi, ker privabljajo posebne opraševalce.", "kategorija": "Narava"},
-  {"id": 577, "vsebina": "Ali veš, da imajo nekatere vrste mravelj lastne 'vojake', ker branijo kolonijo pred napadi?", "kategorija": "Živali"},
-  {"id": 578, "vsebina": "Si vedel, da je bil prvi računalniški disk izdelan iz več kovinskih plošč, ker so želeli povečati kapaciteto?", "kategorija": "Tehnologija"},
-  {"id": 579, "vsebina": "Neverjetno, da lahko nekateri ledeniki ustvarijo modre jame, ker led filtrira svetlobo.", "kategorija": "Narava"},
-  {"id": 580, "vsebina": "Ali veš, da imajo flamingi sposobnost filtriranja hrane iz vode, ker imajo poseben kljun?", "kategorija": "Živali"},
-  {"id": 581, "vsebina": "Si vedel, da je bil prvi računalniški pomnilnik narejen iz magnetnih obročev, ker so shranjevali bite z magnetizmom?", "kategorija": "Tehnologija"},
-  {"id": 582, "vsebina": "Neverjetno, da lahko nekateri slapovi ustvarijo ledene mostove, ker voda zamrzne v plasteh.", "kategorija": "Narava"},
-  {"id": 583, "vsebina": "Ali veš, da imajo nekatere vrste sov sposobnost lova v popolni temi, ker imajo izjemno občutljiv sluh?", "kategorija": "Živali"},
-  {"id": 584, "vsebina": "Si vedel, da je bil prvi računalniški virus razširjen po univerzah, ker so si študenti izmenjavali diskete?", "kategorija": "Tehnologija"},
-  {"id": 585, "vsebina": "Neverjetno, da lahko nekatere rastline rastejo na drugih rastlinah, ker uporabljajo drevesa kot oporo.", "kategorija": "Narava"},
-  {"id": 586, "vsebina": "Ali veš, da imajo delfini sposobnost zdravljenja poškodb brez okužb, ker njihova koža vsebuje antibakterijske lastnosti?", "kategorija": "Živali"},
-  {"id": 587, "vsebina": "Si vedel, da je bil prvi elektronski računalnik programiran s preklapljanjem kablov, ker ni imel operacijskega sistema?", "kategorija": "Tehnologija"},
-  {"id": 588, "vsebina": "Neverjetno, da lahko nekateri oceanski valovi dosežejo višino večnadstropne stavbe, ker jih ustvarijo močne nevihte.", "kategorija": "Narava"},
-  {"id": 589, "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost navigacije po zvezdah, ker ponoči uporabljajo nebo kot zemljevid?", "kategorija": "Živali"},
-  {"id": 590, "vsebina": "Si vedel, da je bil prvi internetni brskalnik brez slik, ker povezave niso podpirale velikih datotek?", "kategorija": "Tehnologija"},
-  {"id": 591, "vsebina": "Neverjetno, da lahko nekatere vrste dreves ustvarijo naravne mostove, ker korenine rastejo čez reke.", "kategorija": "Narava"},
-  {"id": 592, "vsebina": "Ali veš, da imajo morski psi sposobnost zaznavanja srčnega utripa plena, ker čutijo električne impulze?", "kategorija": "Živali"},
-  {"id": 593, "vsebina": "Si vedel, da je bil prvi računalniški program napisan brez tipkovnice, ker so podatke vnašali s stikali?", "kategorija": "Tehnologija"},
-  {"id": 594, "vsebina": "Neverjetno, da lahko nekateri slapovi tečejo pod ledom, ker voda ostane tekoča pod zaščitno plastjo.", "kategorija": "Narava"},
-  {"id": 595, "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost napihovanja telesa, ker se tako branijo pred plenilci?", "kategorija": "Živali"},
-  {"id": 596, "vsebina": "Si vedel, da je bil prvi športni stadion brez sedežev, ker so gledalci stali okoli igrišča?", "kategorija": "Šport"},
-  {"id": 597, "vsebina": "Neverjetno, da lahko nekatere puščavske rastline cvetijo le nekaj ur, ker hitro izkoristijo vlago.", "kategorija": "Narava"},
-  {"id": 598, "vsebina": "Ali veš, da imajo nekatere vrste rakov sposobnost hoje vstran, ker so njihovi sklepi drugače obrnjeni?", "kategorija": "Živali"},
-  {"id": 599, "vsebina": "Si vedel, da je bil prvi računalniški disk shranjen v posebni klimatizirani sobi, ker je bil občutljiv na temperaturo?", "kategorija": "Tehnologija"},
-  {"id": 600, "vsebina": "Neverjetno, da lahko nekateri gozdovi preživijo vulkanske izbruhe, ker debela skorja zaščiti drevesa pred vročino.", "kategorija": "Narava"},
-  {"id": 601, "vsebina": "Naša aplikacija za svoje delovanje uporablja bazo na spletu, ki smo jo ustvarili za shranjevanje dejstev. Ta baza je javno dostopna in jo lahko uporablja vsak!", "kategorija": "Splošno"}
+  {
+    "id": 41,
+    "vsebina": "Ali veš, da hobotnica ima tri srca, ker dve srci poganjata kri skozi škrge, tretje pa skozi preostanek telesa?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 42,
+    "vsebina": "Si vedel, da med nikoli ne poteče, ker vsebuje zelo malo vode in bakterije v njem težko preživijo?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 43,
+    "vsebina": "Neverjetno, da banane sodijo med jagodičevje, ker rastejo iz enega samega cveta z več semeni.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 44,
+    "vsebina": "Ali veš, da pingvini predlagajo partnerju kamenček, ker z njim pomagajo graditi gnezdo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 45,
+    "vsebina": "Si vedel, da Eiffelov stolp poleti zraste za nekaj centimetrov, ker se kovina pri vročini razširi?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 46,
+    "vsebina": "Neverjetno, da je vesolje popolnoma tiho, ker zvok potrebuje zrak za širjenje.",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 47,
+    "vsebina": "Ali veš, da krokodili ne morejo iztegniti jezika, ker je pritrjen na spodnji del ust?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 48,
+    "vsebina": "Si vedel, da računalniška miška ni bila vedno plastična, ker so prve različice izdelovali iz lesa?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 49,
+    "vsebina": "Neverjetno, da imajo čebele pet oči, ker tri uporabljajo za svetlobo, dve pa za orientacijo.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 50,
+    "vsebina": "Ali veš, da je srce modrega kita veliko kot manjši avtomobil, ker mora poganjati kri skozi ogromno telo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 51,
+    "vsebina": "Si vedel, da lahko polži spijo tudi več let, ker v sušnih razmerah upočasnijo svoj metabolizem?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 52,
+    "vsebina": "Neverjetno, da je koala večino dneva zaspana, ker njena hrana vsebuje zelo malo energije.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 53,
+    "vsebina": "Ali veš, da ima Jupiter največjo nevihto v Osončju, ker njegova atmosfera vsebuje ogromne količine plinov?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 54,
+    "vsebina": "Si vedel, da korenje nekoč ni bilo oranžno, ker so prve vrste bile vijolične in bele?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 55,
+    "vsebina": "Neverjetno, da lahko morski konjiček zanosi, ker samci nosijo mladiče v posebni vreči.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 56,
+    "vsebina": "Ali veš, da ima človek več bakterij kot celic, ker mikroorganizmi živijo po celotnem telesu?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 57,
+    "vsebina": "Si vedel, da je najstarejša znana pizza nastala v Italiji, ker so tam prvi začeli peči testo s paradižnikom?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 58,
+    "vsebina": "Neverjetno, da se lahko bambus v enem dnevu zraste tudi meter, ker zelo hitro deli celice.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 59,
+    "vsebina": "Ali veš, da flamingi postanejo rožnati zaradi hrane, ker njihova prehrana vsebuje posebne pigmente?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 60,
+    "vsebina": "Si vedel, da je luna počasi vse bolj oddaljena od Zemlje, ker gravitacija povzroča postopno premikanje?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 61,
+    "vsebina": "Neverjetno, da lahko morska zvezda obnovi izgubljen krak, ker ima izjemno sposobnost regeneracije.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 62,
+    "vsebina": "Ali veš, da so prve olimpijske igre trajale le en dan, ker je bilo disciplin veliko manj kot danes?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 63,
+    "vsebina": "Si vedel, da se avokado šteje za sadež, ker vsebuje eno veliko seme?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 64,
+    "vsebina": "Neverjetno, da ima severni medved črno kožo, ker bolje vpija toploto sonca.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 65,
+    "vsebina": "Ali veš, da je bil prvi alarm nastavljen samo na eno uro, ker ni imel možnosti spreminjanja časa?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 66,
+    "vsebina": "Si vedel, da lahko delfini prepoznajo sami sebe v ogledalu, ker imajo visoko razvito inteligenco?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 67,
+    "vsebina": "Neverjetno, da je Antarktika največja puščava na svetu, ker tam skoraj nikoli ne dežuje.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 68,
+    "vsebina": "Ali veš, da imajo metulji okusne receptorje na nogah, ker z njimi preverjajo rastline?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 69,
+    "vsebina": "Si vedel, da so Rimljani uporabljali urin za čiščenje zob, ker vsebuje amonijak?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 70,
+    "vsebina": "Neverjetno, da se lahko strela segreje bolj kot površina Sonca, ker sprosti ogromno energije v trenutku.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 71,
+    "vsebina": "Ali veš, da kenguru ne more hoditi nazaj, ker ima premočne zadnje noge in dolg rep?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 72,
+    "vsebina": "Si vedel, da je internet sprva služil vojski, ker so želeli varno komunikacijo med računalniki?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 73,
+    "vsebina": "Neverjetno, da lahko hobotnica spremeni barvo v sekundi, ker ima posebne pigmentne celice.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 74,
+    "vsebina": "Ali veš, da ima Saturn tako nizko gostoto, da bi plaval na vodi, ker je večinoma sestavljen iz plinov?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 75,
+    "vsebina": "Si vedel, da je arašid dejansko stročnica, ker raste pod zemljo podobno kot fižol?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 76,
+    "vsebina": "Neverjetno, da se lava lahko premika hitreje od avtomobila, ker jo poganja močan pritisk iz vulkana.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 77,
+    "vsebina": "Ali veš, da imajo mačke več kosti kot ljudje, ker imajo zelo gibljiv rep?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 78,
+    "vsebina": "Si vedel, da so prve kamere potrebovale več ur za eno fotografijo, ker so bile svetlobno zelo neučinkovite?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 79,
+    "vsebina": "Neverjetno, da lahko želve dihajo tudi skozi zadnjik, ker imajo posebne krvne žile za izmenjavo kisika.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 80,
+    "vsebina": "Ali veš, da je največji puščavski pesek nastal iz školjk, ker jih je ocean skozi čas zdrobil?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 81,
+    "vsebina": "Si vedel, da je Napoleon nekoč izgubil bitko proti zajcem, ker so ga napadli med lovom?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 82,
+    "vsebina": "Neverjetno, da ima človeški nos sposobnost zaznati trilijone vonjav, ker vsebuje milijone receptorjev.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 83,
+    "vsebina": "Ali veš, da lahko morski psi zaznajo kapljico krvi na veliki razdalji, ker imajo izjemno občutljiv voh?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 84,
+    "vsebina": "Si vedel, da je bil prvi video na YouTubu dolg le 18 sekund, ker je platforma takrat še testirala delovanje?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 85,
+    "vsebina": "Neverjetno, da banane oddajajo rahlo radioaktivnost, ker vsebujejo kalij.",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 86,
+    "vsebina": "Ali veš, da je voda lahko hkrati tekoča in trdna, ker obstaja stanje imenovano trojna točka?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 87,
+    "vsebina": "Si vedel, da so Vikingi uporabljali kosti živali za drsalke, ker kovinskih še niso poznali?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 88,
+    "vsebina": "Neverjetno, da se lahko nekatere žabe zamrznejo in preživijo, ker njihovo telo proizvaja naravni antifriz.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 89,
+    "vsebina": "Ali veš, da je Sonce tako veliko, da bi vanj lahko spravili več kot milijon Zemelj, ker ima ogromen volumen?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 90,
+    "vsebina": "Si vedel, da se krompir uporablja za proizvodnjo elektrike, ker vsebuje elektrolite?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 91,
+    "vsebina": "Neverjetno, da imajo papige sposobnost posnemanja govora, ker so njihovi možgani zelo prilagodljivi.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 92,
+    "vsebina": "Ali veš, da lahko človeški želodec raztopi britvico, ker vsebuje močno želodčno kislino?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 93,
+    "vsebina": "Si vedel, da je šah nastal v Indiji, ker so tam razvili zgodnjo različico igre?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 94,
+    "vsebina": "Neverjetno, da lahko nekatere ribe hodijo po kopnem, ker imajo prilagojene plavuti za premikanje.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 95,
+    "vsebina": "Ali veš, da je čokolada nevarna za pse, ker vsebuje teobromin, ki ga ne morejo presnavljati?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 96,
+    "vsebina": "Si vedel, da imajo oblaki lahko težo več milijonov kilogramov, ker vsebujejo ogromno kapljic vode?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 97,
+    "vsebina": "Neverjetno, da se je prvi računalniški virus širil prek disket, ker internet še ni bil razširjen.",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 98,
+    "vsebina": "Ali veš, da ima žirafa enako število vratnih vretenc kot človek, ker imajo skoraj vsi sesalci sedem vretenc?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 99,
+    "vsebina": "Si vedel, da so stare piramide nekoč bile bele, ker so bile prekrite z gladkim apnencem?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 100,
+    "vsebina": "Neverjetno, da lahko meduze živijo brez možganov, ker njihov živčni sistem deluje razpršeno.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 101,
+    "vsebina": "Ali veš, da se lahko kamele zaprejo nosnice, ker jih tako zaščitijo pred peskom?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 102,
+    "vsebina": "Si vedel, da ima Zemlja več dreves kot zvezd v naši galaksiji, ker gozdovi pokrivajo ogromna območja?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 103,
+    "vsebina": "Neverjetno, da lahko lava ustvari novo kopno, ker se ohlajena magma strdi v kamen.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 104,
+    "vsebina": "Ali veš, da je bil prvi mobilni telefon težak več kot kilogram, ker baterije takrat niso bile učinkovite?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 105,
+    "vsebina": "Si vedel, da lenivci skoraj ves čas visijo obrnjeni navzdol, ker imajo posebej prilagojene kremplje?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 106,
+    "vsebina": "Neverjetno, da lahko sončnice sledijo Soncu, ker njihove celice rastejo hitreje na senčni strani.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 107,
+    "vsebina": "Ali veš, da ima človeško telo dovolj železa za izdelavo majhnega žeblja, ker je železo pomembno za kri?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 108,
+    "vsebina": "Si vedel, da so prve video igre nastale za znanstvene raziskave, ker so želeli prikazati računalniške zmogljivosti?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 109,
+    "vsebina": "Neverjetno, da lahko nekatere vrste bambusa cvetijo le enkrat na sto let, ker imajo zelo dolg življenjski cikel.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 110,
+    "vsebina": "Ali veš, da je največji vulkan v Osončju na Marsu, ker tam ni premikanja tektonskih plošč?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 111,
+    "vsebina": "Si vedel, da imajo sove neslišno letenje, ker imajo posebna peresa za zmanjšanje zvoka?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 112,
+    "vsebina": "Neverjetno, da lahko jabolka plavajo na vodi, ker vsebujejo veliko zraka.",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 113,
+    "vsebina": "Ali veš, da so nekoč ljudje uporabljali čebulo kot denar, ker je bila zelo dragocena?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 114,
+    "vsebina": "Si vedel, da imajo mravlje svoje pokopališče, ker mrtve člane kolonije odnesejo stran od gnezda?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 115,
+    "vsebina": "Neverjetno, da se lahko nekatere rastline premikajo, ker reagirajo na svetlobo in dotik.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 116,
+    "vsebina": "Ali veš, da je človeška koža največji organ telesa, ker pokriva celotno zunanjost?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 117,
+    "vsebina": "Si vedel, da ima Venera daljši dan kot leto, ker se zelo počasi vrti okoli svoje osi?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 118,
+    "vsebina": "Neverjetno, da lahko morski psi zamenjajo tisoče zob, ker jim novi zobje nenehno rastejo.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 119,
+    "vsebina": "Ali veš, da so prve ure merile čas s senco, ker mehanskih naprav še niso poznali?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 120,
+    "vsebina": "Si vedel, da ima lubenica več kot 90 odstotkov vode, ker je prilagojena vročim podnebjem?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 121,
+    "vsebina": "Neverjetno, da lahko pajki letijo po zraku, ker uporabljajo tanke svilene niti za veter.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 122,
+    "vsebina": "Ali veš, da je bil prvi e-mail poslan leta 1971, ker so raziskovalci testirali računalniško omrežje?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 123,
+    "vsebina": "Si vedel, da so dinozavri živeli bližje času ljudi kot času nastanka Zemlje, ker je Zemlja izjemno stara?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 124,
+    "vsebina": "Neverjetno, da lahko nekatere kače zaznajo toploto plena, ker imajo posebne senzorične organe.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 125,
+    "vsebina": "Ali veš, da je snežinka vedno šestkotna, ker se molekule vode povezujejo pod določenimi koti?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 126,
+    "vsebina": "Si vedel, da lahko kavna zrna pomagajo pri odstranjevanju neprijetnih vonjav, ker vpijajo aromatične spojine?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 127,
+    "vsebina": "Neverjetno, da imajo netopirji izjemen sluh, ker uporabljajo eholokacijo za orientacijo.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 128,
+    "vsebina": "Ali veš, da je bil prvi robot izdelan že v antični Grčiji, ker so izumitelji ustvarjali mehanske naprave?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 129,
+    "vsebina": "Si vedel, da imajo drevesa med seboj podzemno komunikacijo, ker si preko gliv izmenjujejo hranila?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 130,
+    "vsebina": "Neverjetno, da lahko morski levi ploskajo z zadnjimi plavutmi, ker imajo zelo gibljive sklepe.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 131,
+    "vsebina": "Ali veš, da je bil košarkarski obroč sprva zaprt, ker so uporabljali prave košare za sadje?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 132,
+    "vsebina": "Si vedel, da ima ananas encime za razgradnjo beljakovin, ker rastlina uporablja posebne kemične spojine?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 133,
+    "vsebina": "Neverjetno, da lahko mravlje nosijo večkratnik svoje teže, ker imajo zelo močne mišice glede na velikost.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 134,
+    "vsebina": "Ali veš, da je na Luni manj gravitacije, ker ima veliko manjšo maso kot Zemlja?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 135,
+    "vsebina": "Si vedel, da so stare knjige pogosto dišale po vanilji, ker papir vsebuje kemične spojine podobne vaniliji?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 136,
+    "vsebina": "Neverjetno, da lahko nekatere ptice spijo med letenjem, ker polovica njihovih možganov ostane budna.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 137,
+    "vsebina": "Ali veš, da je bil prvi spletni naslov ustvarjen za raziskovalni center, ker je internet nastal za akademske namene?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 138,
+    "vsebina": "Si vedel, da imajo lignji modro kri, ker uporabljajo baker namesto železa za prenos kisika?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 139,
+    "vsebina": "Neverjetno, da lahko kaktusi shranijo ogromne količine vode, ker so prilagojeni puščavskim razmeram.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 140,
+    "vsebina": "Ali veš, da je bila prva nogometna žoga narejena iz živalskega mehurja, ker gume še niso uporabljali?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 141,
+    "vsebina": "Si vedel, da imajo nekatere ribe prozorno kri, ker živijo v zelo hladnih vodah z veliko kisika?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 142,
+    "vsebina": "Neverjetno, da se lahko ledeniki premikajo, ker ogromna masa ledu počasi drsi po tleh.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 143,
+    "vsebina": "Ali veš, da ima računalniška tipka Caps Lock zgodovinski izvor, ker so jo prevzeli iz pisalnih strojev?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 144,
+    "vsebina": "Si vedel, da je bila najkrajša vojna v zgodovini dolga manj kot eno uro, ker se je ena stran hitro predala?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 145,
+    "vsebina": "Neverjetno, da lahko nekatere alge svetijo v temi, ker proizvajajo bioluminiscenčne kemikalije.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 146,
+    "vsebina": "Ali veš, da imajo sloni odličen spomin, ker imajo zelo razvite možganske strukture?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 147,
+    "vsebina": "Si vedel, da se lahko meteorit segreje do žarenja, ker pri vstopu v atmosfero nastane močno trenje?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 148,
+    "vsebina": "Neverjetno, da je paradižnik nekoč veljal za strupenega, ker so ljudje napačno razumeli njegove lastnosti.",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 149,
+    "vsebina": "Ali veš, da imajo gepardi črne črte pod očmi, ker zmanjšujejo bleščanje sonca med lovom?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 150,
+    "vsebina": "Si vedel, da lahko voda zavre in zmrzne hkrati, ker posebni pogoji omogočajo obe stanji?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 151,
+    "vsebina": "Neverjetno, da imajo morski psi starejši izvor kot drevesa, ker obstajajo že več sto milijonov let.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 152,
+    "vsebina": "Ali veš, da je bil prvi spletni brskalnik tudi urejevalnik strani, ker so želeli omogočiti ustvarjanje vsebin?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 153,
+    "vsebina": "Si vedel, da imajo krave najboljše prijatelje, ker tvorijo močne socialne vezi?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 154,
+    "vsebina": "Neverjetno, da lahko lava pod vodo ustvari steklo, ker se zelo hitro ohladi.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 155,
+    "vsebina": "Ali veš, da so stari Egipčani uporabljali kruh proti okužbam, ker je plesen vsebovala naravne antibiotike?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 156,
+    "vsebina": "Si vedel, da imajo nekatere ptice magnetni občutek, ker zaznavajo Zemljino magnetno polje?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 157,
+    "vsebina": "Neverjetno, da je Neptun odkrila matematika, ker so astronomi izračunali njegovo lego pred opazovanjem.",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 158,
+    "vsebina": "Ali veš, da lahko kokosova voda nadomesti fiziološko raztopino, ker vsebuje veliko elektrolitov?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 159,
+    "vsebina": "Si vedel, da imajo žolne poseben jezik za zaščito možganov, ker se ovije okoli glave?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 160,
+    "vsebina": "Neverjetno, da lahko puščavski pesek poje, ker veter povzroča vibracije med zrni.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 161,
+    "vsebina": "Ali veš, da je bil prvi računalniški program napisan za stroj, ki nikoli ni deloval, ker naprava ni bila dokončana?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 162,
+    "vsebina": "Si vedel, da imajo nekatere vrste medvedov vijoličen jezik, ker vsebuje posebne pigmente?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 163,
+    "vsebina": "Neverjetno, da lahko luna povzroča plimovanje oceanov, ker njena gravitacija vleče Zemljino vodo.",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 164,
+    "vsebina": "Ali veš, da imajo flamingi sposobnost stati na eni nogi brez utrujenosti, ker zaklenejo sklepe?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 165,
+    "vsebina": "Si vedel, da so nekoč ljudje uporabljali pajčevino za povoje, ker ima antibakterijske lastnosti?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 166,
+    "vsebina": "Neverjetno, da lahko nekatere gobe svetijo v temi, ker proizvajajo bioluminiscenčne snovi.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 167,
+    "vsebina": "Ali veš, da ima človeško oko sposobnost razlikovati milijone barv, ker vsebuje posebne svetlobne receptorje?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 168,
+    "vsebina": "Si vedel, da je bil prvi računalniški disk velik kot soba, ker tehnologija še ni bila miniaturizirana?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 169,
+    "vsebina": "Neverjetno, da lahko nekatere kače letijo med drevesi, ker sploščijo telo in drsijo po zraku.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 170,
+    "vsebina": "Ali veš, da imajo morske vidre najgostejše krzno med živalmi, ker jih ščiti pred mrzlo vodo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 171,
+    "vsebina": "Si vedel, da lahko meteorski dež nastane iz ostankov kometov, ker Zemlja potuje skozi njihove sledi?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 172,
+    "vsebina": "Neverjetno, da je čili pekoč zaradi obrambe pred živalmi, ker kapsaicin odvrača plenilce.",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 173,
+    "vsebina": "Ali veš, da imajo zebre različne vzorce prog, ker delujejo podobno kot prstni odtisi?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 174,
+    "vsebina": "Si vedel, da lahko veter premika kamne v puščavi, ker tanek sloj ledu zmanjša trenje?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 175,
+    "vsebina": "Neverjetno, da so prvi športni copati imeli gumijast podplat brez vezalk, ker so bili namenjeni tihemu gibanju.",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 176,
+    "vsebina": "Ali veš, da imajo nekatere želve sposobnost zaznavanja Zemljinega magnetnega polja, ker jim pomaga pri selitvah?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 177,
+    "vsebina": "Si vedel, da je bil prvi virus za računalnike ustvarjen kot eksperiment, ker so raziskovalci proučevali širjenje programov?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 178,
+    "vsebina": "Neverjetno, da lahko severni sij spreminja barve, ker različni plini v atmosferi svetijo različno.",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 179,
+    "vsebina": "Ali veš, da imajo polži na tisoče drobnih zob, ker z njimi strgajo hrano?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 180,
+    "vsebina": "Si vedel, da so prve testenine verjetno jedli že pred tisoči let, ker so ljudje zgodaj začeli uporabljati moko in vodo?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 181,
+    "vsebina": "Ali veš, da lahko kamele spijejo več deset litrov vode naenkrat, ker njihovo telo hitro nadomesti izgubljeno tekočino?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 182,
+    "vsebina": "Si vedel, da ima človeški skelet ob rojstvu več kosti kot v odraslosti, ker se nekatere kosti sčasoma združijo?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 183,
+    "vsebina": "Neverjetno, da lahko vulkanski pepel izboljša rodovitnost zemlje, ker vsebuje veliko mineralov.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 184,
+    "vsebina": "Ali veš, da so stare civilizacije uporabljale golobe za pošto, ker se znajo vedno vrniti domov?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 185,
+    "vsebina": "Si vedel, da imajo nekatere vrste rib sposobnost spreminjanja spola, ker se prilagajajo razmeram v skupini?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 186,
+    "vsebina": "Neverjetno, da lahko računalniki danes opravijo milijarde izračunov na sekundo, ker uporabljajo izjemno hitre procesorje.",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 187,
+    "vsebina": "Ali veš, da ima človeški jezik edinstven odtis podobno kot prst, ker je razporeditev papil drugačna pri vsakem človeku?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 188,
+    "vsebina": "Si vedel, da lahko nekateri kuščarji odvržejo rep za pobeg, ker jim kasneje zraste nov?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 189,
+    "vsebina": "Neverjetno, da je na Merkurju dan daljši od leta, ker se planet zelo počasi vrti okoli svoje osi.",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 190,
+    "vsebina": "Ali veš, da se sladoled topi počasneje zaradi maščobe, ker zmanjšuje hitrost taljenja?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 191,
+    "vsebina": "Si vedel, da imajo krokodili izjemno močan ugriz, ker njihove čeljustne mišice ustvarijo velik pritisk?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 192,
+    "vsebina": "Neverjetno, da so prve knjige pisali na glinene tablice, ker papir še ni obstajal.",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 193,
+    "vsebina": "Ali veš, da lahko nekatere vrste bambusa preživijo požar, ker imajo zelo odporne korenine?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 194,
+    "vsebina": "Si vedel, da je bil prvi računalniški hrošč dejansko molj, ker se je zataknil v računalniško vezje?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 195,
+    "vsebina": "Neverjetno, da lahko nekatere ptice vidijo ultravijolično svetlobo, ker imajo drugačne receptorje v očeh.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 196,
+    "vsebina": "Ali veš, da so Saturnovi obroči sestavljeni predvsem iz ledu, ker se svetloba od njega močno odbija?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 197,
+    "vsebina": "Si vedel, da ima kokos tri plasti zaščite, ker mora seme preživeti dolga potovanja po morju?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 198,
+    "vsebina": "Neverjetno, da lahko pingvini pijejo morsko vodo, ker imajo posebne žleze za odstranjevanje soli.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 199,
+    "vsebina": "Ali veš, da so Rimljani uporabljali centralno ogrevanje, ker so vroč zrak speljali pod tla?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 200,
+    "vsebina": "Si vedel, da lahko nekatere rastline prepoznajo sorodne rastline, ker preko korenin zaznavajo kemične signale?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 201,
+    "vsebina": "Neverjetno, da imajo pajki modro kri, ker vsebuje baker namesto železa.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 202,
+    "vsebina": "Ali veš, da je prva spletna kamera spremljala kavni avtomat, ker raziskovalci niso želeli hoditi po prazno?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 203,
+    "vsebina": "Si vedel, da ima Luna potrese, ker nanjo vpliva gravitacija Zemlje?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 204,
+    "vsebina": "Neverjetno, da lahko medvedi tečejo hitreje od konj na kratke razdalje, ker imajo zelo močne mišice.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 205,
+    "vsebina": "Ali veš, da je kečap nekoč veljal za zdravilo, ker so verjeli v zdravilne učinke paradižnika?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 206,
+    "vsebina": "Si vedel, da imajo nekatere vrste dreves sposobnost opozarjanja drugih dreves pred nevarnostjo, ker sproščajo kemične signale?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 207,
+    "vsebina": "Neverjetno, da lahko hobotnica odpre kozarec, ker ima zelo razvite možgane in spretne lovke.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 208,
+    "vsebina": "Ali veš, da je bil prvi olimpijski maraton daljši kot danes, ker standardna dolžina še ni bila določena?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 209,
+    "vsebina": "Si vedel, da se lahko kovina pri ekstremnem mrazu zlomi kot steklo, ker postane bolj krhka?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 210,
+    "vsebina": "Neverjetno, da lahko nekatere ribe ustvarjajo elektriko, ker imajo posebne električne organe.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 211,
+    "vsebina": "Ali veš, da je bil prvi SMS dolg le dve besedi, ker je služil kot test mobilnega omrežja?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 212,
+    "vsebina": "Si vedel, da imajo čebele poseben ples za komunikacijo, ker z njim pokažejo smer hrane?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 213,
+    "vsebina": "Neverjetno, da lahko severni sij nastane zaradi Sonca, ker nabiti delci trčijo v Zemljino atmosfero.",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 214,
+    "vsebina": "Ali veš, da je arašidovo maslo mogoče spremeniti v diamant, ker vsebuje veliko ogljika?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 215,
+    "vsebina": "Si vedel, da imajo tigri črtasto tudi kožo, ker pigment sega pod dlako?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 216,
+    "vsebina": "Neverjetno, da lahko puščave ponoči postanejo zelo hladne, ker pesek hitro izgublja toploto.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 217,
+    "vsebina": "Ali veš, da so prvi zemljevidi prikazovali svet zelo netočno, ker raziskovalci niso poznali vseh celin?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 218,
+    "vsebina": "Si vedel, da imajo nekatere vrste rib prosojno kri, ker nimajo rdečih krvničk?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 219,
+    "vsebina": "Neverjetno, da lahko nekateri polži preživijo brez hrane več mesecev, ker močno upočasnijo metabolizem.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 220,
+    "vsebina": "Ali veš, da je prvi trdi disk hranil manj podatkov kot današnja fotografija, ker je bila tehnologija omejena?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 221,
+    "vsebina": "Si vedel, da imajo morski psi elektroreceptorje, ker zaznavajo električne impulze plena?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 222,
+    "vsebina": "Neverjetno, da se lahko oblaki premikajo hitreje od avtomobilov, ker jih nosijo močni vetrovi.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 223,
+    "vsebina": "Ali veš, da so nekoč uporabljali čokolado kot valuto, ker je bila zelo cenjena?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 224,
+    "vsebina": "Si vedel, da lahko kolibri leti vzvratno, ker njegova krila mahajo v obliki osmice?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 225,
+    "vsebina": "Neverjetno, da ima Venera bolj vročo površino kot Merkur, ker njena atmosfera zadržuje toploto.",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 226,
+    "vsebina": "Ali veš, da imajo človeški lasje veliko moč, ker posamezen las prenese precejšnjo težo?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 227,
+    "vsebina": "Si vedel, da so prve ure na roki nosili predvsem vojaki, ker so potrebovali prosti roki?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 228,
+    "vsebina": "Neverjetno, da lahko nekatere vrste rakov živijo več kot sto let, ker rastejo zelo počasi.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 229,
+    "vsebina": "Ali veš, da imajo nekatere rastline sposobnost lovljenja žuželk, ker rastejo v tleh brez hranil?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 230,
+    "vsebina": "Si vedel, da je prvi računalniški zaslon prikazoval le besedilo, ker grafične zmogljivosti še niso obstajale?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 231,
+    "vsebina": "Neverjetno, da lahko nekatere ptice uporabljajo orodje, ker imajo razvite sposobnosti reševanja problemov.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 232,
+    "vsebina": "Ali veš, da je največja snežinka merila skoraj pol metra, ker so se ledeni kristali združili med padanjem?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 233,
+    "vsebina": "Si vedel, da je bil prvi nogomet brez sodnikov, ker so igralci sami reševali spore?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 234,
+    "vsebina": "Neverjetno, da lahko hobotnica prepozna ljudi, ker si zapomni obraze in vedenje.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 235,
+    "vsebina": "Ali veš, da se nekateri meteoroidi premikajo hitreje od krogle, ker jih pospešuje gravitacija?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 236,
+    "vsebina": "Si vedel, da imajo jastogi modro kri, ker vsebuje baker namesto železa?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 237,
+    "vsebina": "Neverjetno, da lahko veter spremeni obliko skal, ker pesek deluje kot brusni papir.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 238,
+    "vsebina": "Ali veš, da so prvi računalniški programerji pogosto bile ženske, ker so programiranje sprva dojemali kot administrativno delo?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 239,
+    "vsebina": "Si vedel, da imajo nekatere vrste rib sposobnost hoje po morskem dnu, ker uporabljajo plavuti kot noge?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 240,
+    "vsebina": "Neverjetno, da lahko vroča voda včasih zmrzne hitreje kot hladna, ker pride do posebnega pojava imenovanega Mpembin efekt.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 241,
+    "vsebina": "Ali veš, da so srednjeveški vitezi pogosto igrali nogomet, ker je bil šport priljubljena zabava?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 242,
+    "vsebina": "Si vedel, da imajo delfini imena za druge delfine, ker uporabljajo posebne žvižge za prepoznavanje?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 243,
+    "vsebina": "Neverjetno, da lahko nekateri vulkani bruhajo modro lavo, ker vsebujejo goreče žveplove pline.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 244,
+    "vsebina": "Ali veš, da je bila prva računalniška gesla dolga le nekaj znakov, ker so bili sistemi preprostejši?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 245,
+    "vsebina": "Si vedel, da imajo netopirji zelo dolgo življenjsko dobo glede na velikost, ker imajo počasen metabolizem?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 246,
+    "vsebina": "Neverjetno, da lahko nekateri asteroidi imajo svoje lune, ker jih gravitacija drži v orbiti.",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 247,
+    "vsebina": "Ali veš, da imajo človeški možgani več povezav kot je zvezd v galaksiji, ker nevroni tvorijo ogromno mrežo?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 248,
+    "vsebina": "Si vedel, da je bil prvi hladilnik hlajen z ledom, ker elektrike še niso uporabljali?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 249,
+    "vsebina": "Neverjetno, da lahko nekatere želve živijo več kot 150 let, ker se njihove celice zelo počasi starajo.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 250,
+    "vsebina": "Ali veš, da imajo komarji raje nekatere ljudi, ker jih privlačijo določene kemične snovi na koži?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 251,
+    "vsebina": "Si vedel, da so stare civilizacije uporabljale sončne ure za merjenje časa, ker senca pokaže položaj Sonca?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 252,
+    "vsebina": "Neverjetno, da lahko nekatere gosenice posnemajo kače, ker se tako branijo pred plenilci.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 253,
+    "vsebina": "Ali veš, da ima Zemlja tekoče kovinsko jedro, ker visoke temperature talijo kovine?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 254,
+    "vsebina": "Si vedel, da lahko roboti danes operirajo ljudi, ker imajo izjemno natančne mehanske roke?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 255,
+    "vsebina": "Neverjetno, da lahko nekatere rastline zaznajo dotik, ker se njihove celice odzivajo na pritisk.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 256,
+    "vsebina": "Ali veš, da imajo severni jeleni ultravijolični vid, ker jim pomaga pri iskanju hrane v snegu?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 257,
+    "vsebina": "Si vedel, da je bila prva spletna stran še vedno dostopna več desetletij, ker jo hranijo kot zgodovinski arhiv?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 258,
+    "vsebina": "Neverjetno, da lahko nekatere vrste rib živijo v skoraj vreli vodi, ker so prilagojene ekstremnim razmeram.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 259,
+    "vsebina": "Ali veš, da imajo drevesa letnice zaradi sezonske rasti, ker se hitrost rasti skozi leto spreminja?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 260,
+    "vsebina": "Si vedel, da so Vikingi uporabljali sončni kamen za navigacijo, ker je pokazal smer Sonca tudi v oblakih?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 261,
+    "vsebina": "Neverjetno, da lahko nekatere ptice letijo več dni brez pristanka, ker izkoriščajo zračne tokove.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 262,
+    "vsebina": "Ali veš, da je na Marsu najvišja pečina v Osončju, ker ima planet drugačne geološke procese?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 263,
+    "vsebina": "Si vedel, da imajo čebule več plasti za zaščito, ker hranijo energijo za rast?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 264,
+    "vsebina": "Neverjetno, da lahko električne jegulje ustvarijo močan sunek, ker imajo specializirane električne celice.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 265,
+    "vsebina": "Ali veš, da je bil prvi tiskalnik počasnejši od današnjega tipkanja, ker je uporabljal mehanske dele?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 266,
+    "vsebina": "Si vedel, da imajo volkovi različne tuljave za komunikacijo, ker z njimi sporočajo položaj in čustva?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 267,
+    "vsebina": "Neverjetno, da lahko sneg odbije večino sončne svetlobe, ker je sestavljen iz številnih ledenih kristalov.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 268,
+    "vsebina": "Ali veš, da so prve olimpijske medalje bile iz srebra, ker zlata medalja še ni obstajala?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 269,
+    "vsebina": "Si vedel, da imajo nekatere vrste rib vgrajeno naravno zaščito proti zmrzovanju, ker proizvajajo posebne beljakovine?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 270,
+    "vsebina": "Neverjetno, da lahko strela udari isto mesto večkrat, ker visoki objekti privlačijo električne naboje.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 271,
+    "vsebina": "Ali veš, da so prve telefonske številke imele le nekaj števk, ker je bilo uporabnikov zelo malo?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 272,
+    "vsebina": "Si vedel, da imajo čmrlji sposobnost ogrevanja telesa, ker hitro premikajo mišice kril?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 273,
+    "vsebina": "Neverjetno, da lahko nekateri meteoriti vsebujejo aminokisline, ker nastajajo iz organskih spojin v vesolju.",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 274,
+    "vsebina": "Ali veš, da je bila prva žvečilka narejena iz drevesne smole, ker umetnih materialov še niso poznali?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 275,
+    "vsebina": "Si vedel, da imajo hobotnice modro kri, ker vsebuje baker za prenos kisika?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 276,
+    "vsebina": "Neverjetno, da lahko nekateri slapovi tečejo navzgor zaradi vetra, ker močni sunki preusmerijo vodo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 277,
+    "vsebina": "Ali veš, da je bil prvi računalniški monitor okrogel, ker je uporabljal tehnologijo osciloskopa?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 278,
+    "vsebina": "Si vedel, da imajo lenivci na kožuhu alge, ker v njem živijo mikroorganizmi?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 279,
+    "vsebina": "Neverjetno, da lahko nekateri vulkani ustvarjajo strele, ker se v pepelu nabira električni naboj.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 280,
+    "vsebina": "Ali veš, da je bila najstarejša znana športna žoga narejena iz usnja, ker gume še niso uporabljali?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 281,
+    "vsebina": "Si vedel, da imajo mačke sposobnost predenja tudi med bolečino, ker vibracije pomagajo pri pomirjanju?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 282,
+    "vsebina": "Neverjetno, da lahko Sonce povzroči motnje v električnih omrežjih, ker sončni izbruhi vplivajo na magnetno polje Zemlje.",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 283,
+    "vsebina": "Ali veš, da imajo nekateri puščavski hrošči sposobnost zbiranja vode iz megle, ker njihova površina zadržuje kapljice?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 284,
+    "vsebina": "Si vedel, da je bil prvi avtomobil počasnejši od kolesa, ker motorji še niso bili zmogljivi?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 285,
+    "vsebina": "Neverjetno, da lahko nekatere rastline preživijo desetletja brez vode, ker semena ostanejo v mirovanju.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 286,
+    "vsebina": "Ali veš, da imajo sloni sposobnost zaznavanja tresljajev tal, ker uporabljajo občutljive noge?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 287,
+    "vsebina": "Si vedel, da je bil prvi semafor osvetljen s plinom, ker električna razsvetljava še ni bila razvita?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 288,
+    "vsebina": "Neverjetno, da lahko ledene gore vsebujejo pitno vodo, ker nastanejo iz stisnjenega snega.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 289,
+    "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost posnemanja motornih zvokov, ker zelo natančno kopirajo slišane zvoke?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 290,
+    "vsebina": "Si vedel, da je na Jupitru dan dolg manj kot deset ur, ker se planet zelo hitro vrti?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 291,
+    "vsebina": "Neverjetno, da lahko med vsebuje sledi cvetnega prahu tisoče rastlin, ker čebele obiščejo veliko cvetov.",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 292,
+    "vsebina": "Ali veš, da imajo žabe sposobnost dihanja skozi kožo, ker je njihova koža zelo prepustna?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 293,
+    "vsebina": "Si vedel, da so prvi zemljevidi neba nastali brez teleskopov, ker so astronomi opazovali zvezde s prostim očesom?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 294,
+    "vsebina": "Neverjetno, da lahko nekateri kristali ustvarijo elektriko pod pritiskom, ker imajo piezoelektrične lastnosti.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 295,
+    "vsebina": "Ali veš, da imajo nekatere vrste pajkov sposobnost potovanja po zraku na svileni niti, ker jih veter odnese daleč stran?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 296,
+    "vsebina": "Si vedel, da je bila prva video igra ustvarjena za laboratorijski eksperiment, ker so znanstveniki testirali zaslone?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 297,
+    "vsebina": "Neverjetno, da lahko kameleonske oči gledajo v dve smeri hkrati, ker se vsako oko premika neodvisno.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 298,
+    "vsebina": "Ali veš, da imajo nekatere gore svoje vremenske sisteme, ker vplivajo na gibanje zraka?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 299,
+    "vsebina": "Si vedel, da so stari Grki uporabljali paro za mehanske naprave, ker so poznali osnovna načela tlaka?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 300,
+    "vsebina": "Neverjetno, da lahko nekatere ribe preživijo zunaj vode več dni, ker dihajo tudi skozi kožo.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 301,
+    "vsebina": "Ali veš, da imajo nekateri sateliti zlato prevleko, ker odbija toploto Sonca?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 302,
+    "vsebina": "Si vedel, da lahko človeško srce še nekaj časa bije zunaj telesa, ker ima lasten električni sistem?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 303,
+    "vsebina": "Neverjetno, da lahko nekatere rastline rastejo brez zemlje, ker hranila dobijo neposredno iz vode.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 304,
+    "vsebina": "Ali veš, da imajo nekatere vrste sov nesimetrična ušesa, ker lažje določijo smer zvoka?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 305,
+    "vsebina": "Si vedel, da je bil prvi računalniški virus ustvarjen brez zlobnega namena, ker je šlo za eksperiment?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 306,
+    "vsebina": "Neverjetno, da lahko ledeniki vsebujejo zrak,star več tisoč let, ker se zračni mehurčki ujamejo v led.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 307,
+    "vsebina": "Ali veš, da imajo pingvini posebno olje na perju, ker jih ščiti pred vodo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 308,
+    "vsebina": "Si vedel, da je bila prva fotografija potrebovala več dni osvetlitve, ker materiali niso bili občutljivi na svetlobo?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 309,
+    "vsebina": "Neverjetno, da lahko nekatere kače rodijo žive mladiče, ker jajca ostanejo v telesu samice.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 310,
+    "vsebina": "Ali veš, da imajo vulkani pomembno vlogo pri nastanku novih otokov, ker lava ustvarja novo kopno?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 311,
+    "vsebina": "Si vedel, da je bil prvi teniški lopar narejen iz lesa, ker sodobni materiali še niso obstajali?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 312,
+    "vsebina": "Neverjetno, da lahko nekatere ptice spijo z odprtim očesom, ker ena polovica možganov ostane budna.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 313,
+    "vsebina": "Ali veš, da imajo nekatere puščave pod površjem velike zaloge vode, ker se voda ujame med kamnine?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 314,
+    "vsebina": "Si vedel, da je prvi kalkulator tehtal več kilogramov, ker je uporabljal mehanske zobnike?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 315,
+    "vsebina": "Neverjetno, da lahko nekatere vrste morskih polžev uporabljajo sončno energijo, ker v telesu hranijo alge.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 316,
+    "vsebina": "Ali veš, da je na Luni prah zelo lepljiv, ker nima vetra ali vode za glajenje delcev?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 317,
+    "vsebina": "Si vedel, da imajo banane naravno ukrivljeno obliko, ker rastejo proti Soncu?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 318,
+    "vsebina": "Neverjetno, da lahko nekatere rastline zaznajo zvok vode, ker korenine reagirajo na vibracije.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 319,
+    "vsebina": "Ali veš, da imajo tigri zelo mehke tačke, ker jim pomagajo pri tihem lovu?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 320,
+    "vsebina": "Si vedel, da je bil prvi elektronski računalnik večji od sobe, ker je uporabljal vakuumske cevi?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 321,
+    "vsebina": "Neverjetno, da lahko morski valovi potujejo tisoče kilometrov, ker energija prehaja skozi vodo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 322,
+    "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost štetja, ker prepoznajo količine hrane?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 323,
+    "vsebina": "Si vedel, da so prvi nogometni sodniki uporabljali robčke namesto kartonov, ker kartoni še niso obstajali?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 324,
+    "vsebina": "Neverjetno, da lahko nekateri vulkani ostanejo speči več stoletij, ker se magma počasi kopiči pod površjem.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 325,
+    "vsebina": "Ali veš, da imajo nekatere vrste meduz sposobnost pomlajevanja, ker se njihove celice lahko obnovijo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 326,
+    "vsebina": "Si vedel, da je bila prva računalniška tipkovnica podobna pisalnemu stroju, ker so uporabniki že poznali takšno razporeditev?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 327,
+    "vsebina": "Neverjetno, da lahko ledene jame ostanejo zamrznjene tudi poleti, ker hladen zrak ostane ujet v notranjosti.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 328,
+    "vsebina": "Ali veš, da imajo nekatere vrste rib svetleče organe, ker z njimi privabljajo plen?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 329,
+    "vsebina": "Si vedel, da je bil prvi satelit velik kot žoga za na plažo, ker je vseboval le osnovno opremo?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 330,
+    "vsebina": "Neverjetno, da lahko nekatere rastline preživijo v slani vodi, ker izločajo odvečno sol.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 331,
+    "vsebina": "Ali veš, da imajo žolne zelo močne vratne mišice, ker večkrat na sekundo udarjajo v drevo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 332,
+    "vsebina": "Si vedel, da so prve športne copate imenovali superge, ker so omogočale tiho hojo?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 333,
+    "vsebina": "Neverjetno, da lahko nekateri puščavski kuščarji zbirajo vodo skozi kožo, ker imajo posebne kanale med luskami.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 334,
+    "vsebina": "Ali veš, da imajo oblaki lahko različne barve ob sončnem zahodu, ker svetloba potuje skozi atmosfero pod različnimi koti?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 335,
+    "vsebina": "Si vedel, da je prvi računalniški disk uporabljal magnetno površino, ker je tako lahko shranjeval podatke?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 336,
+    "vsebina": "Neverjetno, da lahko nekatere ptice letijo na višini letal, ker imajo zelo učinkovita pljuča.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 337,
+    "vsebina": "Ali veš, da ima Mars največji kanjon v Osončju, ker je njegova skorja zelo razpokana?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 338,
+    "vsebina": "Si vedel, da imajo nekatere vrste čebel sposobnost prepoznavanja človeških obrazov, ker si zapomnijo vzorce?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 339,
+    "vsebina": "Neverjetno, da lahko vulkanski otoki nastanejo sredi oceana, ker magma prodre skozi morsko dno.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 340,
+    "vsebina": "Ali veš, da je bil prvi elektronski poštni simbol afna izbran naključno, ker ga ljudje redko uporabljali?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 341,
+    "vsebina": "Si vedel, da imajo nekatere vrste rakov sposobnost regeneracije klešč, ker jim zrastejo nove po poškodbi?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 342,
+    "vsebina": "Neverjetno, da lahko sneg duši zvok, ker zračni žepki med kristali absorbirajo vibracije.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 343,
+    "vsebina": "Ali veš, da imajo mačke sposobnost obračanja telesa med padanjem, ker uporabljajo refleks ravnotežja?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 344,
+    "vsebina": "Si vedel, da je bila prva olimpijska bakla uvedena šele v modernih igrah, ker so želeli simbolično povezavo z antično Grčijo?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 345,
+    "vsebina": "Neverjetno, da lahko nekatere rastline rastejo skozi beton, ker njihove korenine ustvarjajo močan pritisk.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 346,
+    "vsebina": "Ali veš, da imajo nekateri morski psi sposobnost svetljenja v temi, ker njihova koža oddaja bioluminiscenco?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 347,
+    "vsebina": "Si vedel, da je bil prvi računalniški disk velik kot pralni stroj, ker je vseboval ogromne mehanske dele?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 348,
+    "vsebina": "Neverjetno, da lahko kometi razvijejo rep dolg milijone kilometrov, ker Sončev veter odpihuje delce ledu in prahu.",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 349,
+    "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost spreminjanja barve med spanjem, ker se njihovi pigmenti premikajo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 350,
+    "vsebina": "Si vedel, da lahko drevesa vplivajo na nastanek dežja, ker sproščajo vlago v atmosfero?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 351,
+    "vsebina": "Neverjetno, da lahko nekatere želve dihajo skozi zadnji del telesa, ker imajo posebne krvne žile za izmenjavo kisika.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 352,
+    "vsebina": "Ali veš, da imajo morski konjički rep podoben opičjemu, ker se z njim oprimejo rastlin?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 353,
+    "vsebina": "Si vedel, da so prve sončne očala uporabljali Inuiti, ker so želeli zmanjšati bleščanje snega?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 354,
+    "vsebina": "Neverjetno, da lahko nekatere gobe rastejo po radioaktivnih območjih, ker uporabljajo sevanje kot vir energije.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 355,
+    "vsebina": "Ali veš, da imajo hobotnice devet možganov, ker ima vsaka lovka delno samostojen živčni sistem?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 356,
+    "vsebina": "Si vedel, da je bil prvi računalniški trdi disk težji od avtomobila, ker je uporabljal ogromne magnetne plošče?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 357,
+    "vsebina": "Neverjetno, da lahko nekatere vrste bambusa preluknjajo asfalt, ker rastejo izjemno hitro in močno.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 358,
+    "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost ustvarjati zvoke, ker drgnejo dele telesa med seboj?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 359,
+    "vsebina": "Si vedel, da je Jupiterjeva rdeča pega stara več stoletij, ker gre za ogromno stabilno nevihto?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 360,
+    "vsebina": "Neverjetno, da lahko nekateri ptiči spijo med letom, ker del možganov ostane aktiven za navigacijo.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 361,
+    "vsebina": "Ali veš, da imajo kamele tri veke, ker jih ščitijo pred peskom v puščavi?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 362,
+    "vsebina": "Si vedel, da so stare civilizacije uporabljale med za konzerviranje hrane, ker preprečuje razvoj bakterij?",
+    "kategorija": "Hrana"
+  },
+  {
+    "id": 363,
+    "vsebina": "Neverjetno, da lahko lava ustvari črni pesek, ker se vulkanski minerali zdrobijo v drobna zrna.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 364,
+    "vsebina": "Ali veš, da imajo nekatere vrste sov ušesa na različnih višinah, ker lažje določijo smer plena?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 365,
+    "vsebina": "Si vedel, da je bil prvi računalniški virus napisan kot šala, ker avtor ni pričakoval širjenja?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 366,
+    "vsebina": "Neverjetno, da lahko nekateri slapovi zamrznejo od znotraj navzven, ker se površina hitreje ohladi.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 367,
+    "vsebina": "Ali veš, da imajo pingvini posebno plast maščobe, ker jih ščiti pred ekstremnim mrazom?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 368,
+    "vsebina": "Si vedel, da je bila prva spletna domena registrirana leta 1985, ker se je internet takrat začel širiti?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 369,
+    "vsebina": "Neverjetno, da lahko nekatere vrste rakov hodijo po drevesih, ker iščejo hrano nad tlemi.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 370,
+    "vsebina": "Ali veš, da imajo ledene gore večino mase pod vodo, ker je led le malo manj gost od vode?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 371,
+    "vsebina": "Si vedel, da so stari Egipčani uporabljali mačke za zaščito žita, ker so lovile glodavce?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 372,
+    "vsebina": "Neverjetno, da lahko nekatere rastline preživijo v popolni temi več tednov, ker hranijo energijo v koreninah.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 373,
+    "vsebina": "Ali veš, da imajo žirafe modre jezike, ker pigment pomaga pri zaščiti pred soncem?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 374,
+    "vsebina": "Si vedel, da je prvi računalniški miškin kabel imel skoraj meter dolžine, ker računalniki niso bili prenosni?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 375,
+    "vsebina": "Neverjetno, da lahko nekateri vulkani izbruhnejo pod ledeniki, ker magma tali led nad seboj.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 376,
+    "vsebina": "Ali veš, da imajo morski psi kožo podobno brusnemu papirju, ker je prekrita z drobnimi zobci?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 377,
+    "vsebina": "Si vedel, da je Saturnova luna Titan večja od planeta Merkur, ker vsebuje ogromne količine ledu?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 378,
+    "vsebina": "Neverjetno, da lahko nekatere vrste ptic letijo nazaj, ker imajo zelo gibljiva krila.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 379,
+    "vsebina": "Ali veš, da je bil prvi kalkulator velik kot miza, ker je uporabljal mehanske zobnike?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 380,
+    "vsebina": "Si vedel, da lahko morska voda zamrzne pri nižji temperaturi kot sladka, ker sol spremeni ledišče?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 381,
+    "vsebina": "Neverjetno, da imajo sloni sposobnost žalovanja, ker si zapomnijo izgubljene člane črede.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 382,
+    "vsebina": "Ali veš, da so prvi športni copati imeli podplate iz gume za kolesa, ker drugih materialov niso uporabljali?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 383,
+    "vsebina": "Si vedel, da imajo nekatere rastline sposobnost ustvarjati toploto, ker pospešijo kemične reakcije?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 384,
+    "vsebina": "Neverjetno, da lahko nekatere ribe živijo v jamah brez oči, ker v temi vid ni potreben.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 385,
+    "vsebina": "Ali veš, da je bila prva video igra brez zvoka, ker računalniki niso podpirali zvočnih učinkov?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 386,
+    "vsebina": "Si vedel, da imajo severni medvedi prozorno dlako, ker svetloba potuje skozi votla vlakna?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 387,
+    "vsebina": "Neverjetno, da lahko puščavski vetrovi ustvarijo peščene valove, ker pesek premikajo v enakomernih vzorcih.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 388,
+    "vsebina": "Ali veš, da imajo čebele sposobnost prepoznavanja simetrije, ker jim pomaga pri iskanju cvetov?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 389,
+    "vsebina": "Si vedel, da je bila prva elektronska pošta poslana med dvema računalnikoma v isti sobi, ker internet še ni bil razširjen?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 390,
+    "vsebina": "Neverjetno, da lahko nekateri minerali svetijo pod UV svetlobo, ker vsebujejo posebne kemične elemente.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 391,
+    "vsebina": "Ali veš, da imajo papige zelo močan kljun, ker lahko z njim lomijo trde orehe?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 392,
+    "vsebina": "Si vedel, da je bil prvi olimpijski stadion zgrajen iz zemlje, ker beton še ni bil pogost material?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 393,
+    "vsebina": "Neverjetno, da lahko nekateri gozdovi ustvarjajo lastne oblake, ker drevesa sproščajo veliko vlage.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 394,
+    "vsebina": "Ali veš, da imajo hobotnice sposobnost stiskanja skozi zelo majhne odprtine, ker nimajo kosti?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 395,
+    "vsebina": "Si vedel, da je bil prvi računalniški ekran zelen, ker so takšni monitorji porabili manj energije?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 396,
+    "vsebina": "Neverjetno, da lahko nekatere rastline preživijo požar in ponovno zrastejo, ker imajo zaščitena semena.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 397,
+    "vsebina": "Ali veš, da imajo netopirji najdaljšo življenjsko dobo med majhnimi sesalci, ker počasneje starajo celice?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 398,
+    "vsebina": "Si vedel, da je na Veneri dež iz žveplove kisline, ker atmosfera vsebuje veliko žvepla?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 399,
+    "vsebina": "Neverjetno, da lahko nekateri pajki hodijo po vodi, ker njihova telesa odbijajo tekočino.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 400,
+    "vsebina": "Ali veš, da so prve knjige pogosto priklenili na police, ker so bile zelo dragocene?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 401,
+    "vsebina": "Si vedel, da imajo nekatere vrste rib sposobnost kamuflaže kot hobotnice, ker spreminjajo barvo kože?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 402,
+    "vsebina": "Neverjetno, da lahko sneg včasih izgleda moder, ker led absorbira rdečo svetlobo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 403,
+    "vsebina": "Ali veš, da je bil prvi računalniški disk izdelan iz aluminija, ker je moral biti magneten in trden?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 404,
+    "vsebina": "Si vedel, da imajo delfini sposobnost zdravljenja ran hitreje kot ljudje, ker njihova koža hitro obnavlja tkivo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 405,
+    "vsebina": "Neverjetno, da lahko nekateri ledeniki oddajajo zvoke podobne pokanju, ker se led premika in lomi.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 406,
+    "vsebina": "Ali veš, da imajo človeški možgani dovolj električne energije za majhno žarnico, ker nevroni pošiljajo električne impulze?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 407,
+    "vsebina": "Si vedel, da so prvi računalniški virusi potovali prek disket po pošti, ker internet še ni bil vsakdanji?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 408,
+    "vsebina": "Neverjetno, da lahko nekatere kače letijo med drevesi, ker sploščijo telo za drsenje po zraku.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 409,
+    "vsebina": "Ali veš, da imajo nekateri slapovi rožnato barvo, ker vsebujejo alge ali minerale?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 410,
+    "vsebina": "Si vedel, da je bil prvi športni dres iz volne, ker sintetičnih tkanin še niso poznali?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 411,
+    "vsebina": "Neverjetno, da lahko nekatere ptice posnemajo zvoke motornih žag, ker si zapomnijo slišane zvoke.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 412,
+    "vsebina": "Ali veš, da ima Uran skoraj ležečo os vrtenja, ker ga je verjetno zadelo veliko nebesno telo?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 413,
+    "vsebina": "Si vedel, da imajo nekateri gozdovi drevesa starejša od piramid, ker rastejo zelo počasi?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 414,
+    "vsebina": "Neverjetno, da lahko nekatere ribe dihajo zrak, ker imajo posebne organe podobne pljučem.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 415,
+    "vsebina": "Ali veš, da je bil prvi telefon brez številčnice, ker so povezave vzpostavljali operaterji?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 416,
+    "vsebina": "Si vedel, da imajo sove sposobnost obračanja glave skoraj za cel krog, ker imajo zelo gibljiv vrat?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 417,
+    "vsebina": "Neverjetno, da lahko nekateri oblaki tehtajo več sto ton, ker vsebujejo ogromno kapljic vode.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 418,
+    "vsebina": "Ali veš, da so stari Rimljani uporabljali golobe za športna tekmovanja, ker so cenili njihovo hitrost?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 419,
+    "vsebina": "Si vedel, da imajo nekatere vrste čebel sposobnost segrevanja panja, ker premikajo mišice brez letenja?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 420,
+    "vsebina": "Neverjetno, da lahko meteorski kraterji ostanejo vidni milijone let, ker erozija tam poteka zelo počasi.",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 421,
+    "vsebina": "Ali veš, da imajo nekatere rastline liste, ki odbijajo vodo, ker njihova površina vsebuje mikroskopske strukture?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 422,
+    "vsebina": "Si vedel, da je bil prvi računalniški modem počasnejši od današnjega tipkanja, ker je prenašal zelo malo podatkov?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 423,
+    "vsebina": "Neverjetno, da lahko nekatere vrste mravelj gojijo glive, ker jih uporabljajo kot hrano.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 424,
+    "vsebina": "Ali veš, da imajo puščavske lisice velika ušesa, ker z njimi oddajajo toploto?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 425,
+    "vsebina": "Si vedel, da je bila prva kamera obscura velika kot soba, ker je za projekcijo potrebovala velik prostor?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 426,
+    "vsebina": "Neverjetno, da lahko nekateri ledeniki premikajo ogromne skale, ker jih led počasi potiska naprej.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 427,
+    "vsebina": "Ali veš, da imajo nekateri morski organizmi prozorna telesa, ker se tako skrijejo pred plenilci?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 428,
+    "vsebina": "Si vedel, da je bila prva olimpijska medalja brez traku, ker so jo športnikom podali v roke?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 429,
+    "vsebina": "Neverjetno, da lahko nekatere vrste alg proizvajajo kisik tudi pod ledom, ker izvajajo fotosintezo pri nizkih temperaturah.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 430,
+    "vsebina": "Ali veš, da imajo krokodili zelo občutljivo kožo okoli čeljusti, ker zaznavajo vibracije v vodi?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 431,
+    "vsebina": "Si vedel, da je bil prvi računalniški program shranjen na luknjanih karticah, ker magnetni mediji še niso obstajali?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 432,
+    "vsebina": "Neverjetno, da lahko nekatere puščave cvetijo po dežju, ker semena dolgo čakajo pod peskom.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 433,
+    "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost ustvarjanja svetlobe, ker v telesu gostijo svetleče bakterije?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 434,
+    "vsebina": "Si vedel, da je Sonce belo in ne rumeno, ker atmosfera Zemlje razprši modro svetlobo?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 435,
+    "vsebina": "Neverjetno, da lahko nekatere rastline zaprejo liste ob dotiku, ker hitro premikajo vodo v celicah.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 436,
+    "vsebina": "Ali veš, da imajo hobotnice sposobnost okušanja z lovkami, ker vsebujejo kemične receptorje?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 437,
+    "vsebina": "Si vedel, da je bil prvi elektronski kalkulator dražji od avtomobila, ker je vseboval veliko redkih komponent?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 438,
+    "vsebina": "Neverjetno, da lahko nekatere vrste ptic uporabljajo promet za lomljenje orehov, ker orehe spustijo na cesto.",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 439,
+    "vsebina": "Ali veš, da imajo nekateri slapovi podzemne izvore, ker voda teče skozi jame?",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 440,
+    "vsebina": "Si vedel, da je bil prvi elektronski športni rezultat prikazan na mehanskem semaforju, ker digitalni zasloni še niso obstajali?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 441,
+    "vsebina": "Neverjetno, da lahko nekateri vulkani ustvarijo nove plaže, ker lava po ohladitvi razpade v pesek.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 442,
+    "vsebina": "Ali veš, da imajo žabe oči, ki jim pomagajo pri požiranju hrane, ker z njimi potisnejo plen v grlo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 443,
+    "vsebina": "Si vedel, da je bila prva tipkovnica razporejena po vzoru pisalnih strojev, ker so želeli preprečiti zatikanje tipk?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 444,
+    "vsebina": "Neverjetno, da lahko nekatere vrste dreves preživijo udar strele, ker imajo debelo zaščitno skorjo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 445,
+    "vsebina": "Ali veš, da imajo severni jeleni posebne nosove za ogrevanje zraka, ker živijo v zelo hladnem okolju?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 446,
+    "vsebina": "Si vedel, da je bil prvi računalniški monitor enobarven, ker barvna tehnologija še ni bila razvita?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 447,
+    "vsebina": "Neverjetno, da lahko nekateri oceanski valovi nastanejo zaradi potresov, ker premiki morskega dna premaknejo ogromne količine vode.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 448,
+    "vsebina": "Ali veš, da imajo nekatere vrste kač sposobnost zaznave infrardeče toplote, ker lovijo toplokrvni plen?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 449,
+    "vsebina": "Si vedel, da je bil prvi satelit slišen po radiu, ker je oddajal preprost signal?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 450,
+    "vsebina": "Neverjetno, da lahko nekatere vrste koral živijo več sto let, ker rastejo zelo počasi.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 451,
+    "vsebina": "Ali veš, da imajo nekatere vrste metuljev prozorna krila, ker so luske na njih zelo redke?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 452,
+    "vsebina": "Si vedel, da je bil prvi digitalni fotoaparat težak več kilogramov, ker je uporabljal velike elektronske komponente?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 453,
+    "vsebina": "Neverjetno, da lahko nekateri slapovi ustvarjajo mavrice tudi ponoči, ker mesečina osvetli vodne kapljice.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 454,
+    "vsebina": "Ali veš, da imajo sloni sposobnost medsebojnega prepoznavanja po glasu, ker uporabljajo zelo nizke frekvence?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 455,
+    "vsebina": "Si vedel, da je bila prva računalniška igra ustvarjena na osciloskopu, ker monitorji še niso obstajali?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 456,
+    "vsebina": "Neverjetno, da lahko nekateri vulkani izločajo kristale, ker se minerali ohlajajo v lavi.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 457,
+    "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost prepoznavanja ogledala, ker imajo razvito samozavedanje?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 458,
+    "vsebina": "Si vedel, da je na Marsu sončni zahod moder, ker prah v atmosferi razprši rdečo svetlobo?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 459,
+    "vsebina": "Neverjetno, da lahko nekatere rastline rastejo na kamnih, ker dobijo hranila iz dežja in zraka.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 460,
+    "vsebina": "Ali veš, da imajo morski psi stalno menjavo zob, ker jim novi zobje rastejo vse življenje?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 461,
+    "vsebina": "Si vedel, da je bil prvi spletni brskalnik sposoben tudi urejanja strani, ker so želeli lažje ustvarjati vsebine?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 462,
+    "vsebina": "Neverjetno, da lahko nekateri ledeniki postanejo modri, ker gost led absorbira rdečo svetlobo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 463,
+    "vsebina": "Ali veš, da imajo delfini sposobnost spanja z eno polovico možganov, ker morajo ostati pozorni za dihanje?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 464,
+    "vsebina": "Si vedel, da je bil prvi telefon brez zvonjenja, ker so uporabnike opozarjali operaterji?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 465,
+    "vsebina": "Neverjetno, da lahko nekatere vrste alg obarvajo sneg rdeče, ker vsebujejo posebne pigmente.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 466,
+    "vsebina": "Ali veš, da imajo netopirji sposobnost zaznavanja razdalje z zvokom, ker uporabljajo eholokacijo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 467,
+    "vsebina": "Si vedel, da je bil prvi olimpijski maraton organiziran po legendi o grškem tekaču, ker so želeli obuditi zgodovinski dogodek?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 468,
+    "vsebina": "Neverjetno, da lahko nekatere puščave vsebujejo fosile morskih živali, ker so bile nekoč pod oceanom.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 469,
+    "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost ustvarjanja električnega polja, ker se orientirajo v motni vodi?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 470,
+    "vsebina": "Si vedel, da je bil prvi računalniški disk velik kot hladilnik, ker so magnetni sistemi zahtevali veliko prostora?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 471,
+    "vsebina": "Neverjetno, da lahko nekateri gozdovi preživijo stoletne požare, ker imajo drevesa ognjeodporno skorjo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 472,
+    "vsebina": "Ali veš, da imajo papige sposobnost učenja več sto besed, ker imajo zelo razvite možgane za zvok?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 473,
+    "vsebina": "Si vedel, da je Luna vsako leto malo bolj oddaljena od Zemlje, ker plimovanje vpliva na njeno orbito?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 474,
+    "vsebina": "Neverjetno, da lahko nekatere rastline preživijo zamrznitev, ker njihove celice vsebujejo naravni antifriz.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 475,
+    "vsebina": "Ali veš, da imajo krokodili sposobnost dolgo časa ostati pod vodo, ker upočasnijo srčni utrip?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 476,
+    "vsebina": "Si vedel, da je bil prvi računalniški virus ustvarjen za prikaz varnostnih pomanjkljivosti, ker so raziskovalci testirali sisteme?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 477,
+    "vsebina": "Neverjetno, da lahko nekateri slapovi izginejo pod zemljo, ker voda odteka v kraške jame.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 478,
+    "vsebina": "Ali veš, da imajo mačke sposobnost slišati ultrazvočne frekvence, ker lovijo majhne glodavce?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 479,
+    "vsebina": "Si vedel, da so prvi zemljevidi sveta pogosto prikazovali pošasti, ker raziskovalci niso poznali oddaljenih krajev?",
+    "kategorija": "Zgodovina"
+  },
+  {
+    "id": 480,
+    "vsebina": "Neverjetno, da lahko nekateri kristali rastejo tisoče let, ker se minerali počasi nalagajo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 481,
+    "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost prepoznavanja človeških obrazov, ker si zapomnijo nevarnosti?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 482,
+    "vsebina": "Si vedel, da je bil prvi računalniški zaslon narejen iz katodne cevi, ker druge tehnologije še niso obstajale?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 483,
+    "vsebina": "Neverjetno, da lahko nekatere vrste dreves komunicirajo preko gliv, ker si izmenjujejo hranila in opozorila.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 484,
+    "vsebina": "Ali veš, da imajo hobotnice tri srca, ker dve srci oskrbujeta škrge, eno pa telo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 485,
+    "vsebina": "Si vedel, da je bil prvi spletni strežnik postavljen v raziskovalnem centru CERN, ker so znanstveniki želeli deliti informacije?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 486,
+    "vsebina": "Neverjetno, da lahko nekatere gore ustvarjajo lastne nevihte, ker vplivajo na dvigovanje zraka.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 487,
+    "vsebina": "Ali veš, da imajo severni medvedi črn nos za boljše vpijanje toplote, ker temna barva bolje absorbira sonce?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 488,
+    "vsebina": "Si vedel, da je na Saturnovi luni Enceladus voda v tekočem stanju, ker notranja toplota tali led?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 489,
+    "vsebina": "Neverjetno, da lahko nekatere rastline ujamejo žuželke v manj kot sekundi, ker hitro premikajo liste.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 490,
+    "vsebina": "Ali veš, da imajo čebele sposobnost prepoznavanja časa, ker si zapomnijo urnik cvetenja?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 491,
+    "vsebina": "Si vedel, da je bil prvi računalniški program napisan za analitični stroj, ker so želeli avtomatizirati izračune?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 492,
+    "vsebina": "Neverjetno, da lahko nekateri slapovi ustvarjajo ledne jame, ker voda zamrzne okoli toka.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 493,
+    "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost hoje po kopnem, ker uporabljajo močne plavuti?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 494,
+    "vsebina": "Si vedel, da je bil prvi olimpijski ogenj prižgan s sončnimi žarki, ker so želeli simbolično čistost plamena?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 495,
+    "vsebina": "Neverjetno, da lahko nekateri vulkani povzročijo globalno ohladitev, ker pepel blokira sončno svetlobo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 496,
+    "vsebina": "Ali veš, da imajo sove skoraj neslišen let, ker imajo mehka peresa za zmanjšanje hrupa?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 497,
+    "vsebina": "Si vedel, da je bil prvi računalniški modem povezan prek telefonske linije, ker druge komunikacijske mreže niso obstajale?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 498,
+    "vsebina": "Neverjetno, da lahko nekatere puščave ponoči dosežejo temperature pod ničlo, ker pesek hitro odda toploto.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 499,
+    "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost uporabe orodja, ker znajo reševati kompleksne naloge?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 500,
+    "vsebina": "Si vedel, da je prvi računalniški jezik uporabljal luknjane kartice, ker tipkovnice še niso bile standard?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 501,
+    "vsebina": "Neverjetno, da lahko nekatere rastline rastejo v skoraj popolni temi, ker hranijo energijo v koreninah.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 502,
+    "vsebina": "Ali veš, da imajo delfini poseben žvižg za vsakega člana skupine, ker si tako sporočajo identiteto?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 503,
+    "vsebina": "Si vedel, da je bil prvi satelit brez posadke velik le kot žoga, ker je imel zelo omejeno opremo?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 504,
+    "vsebina": "Neverjetno, da lahko nekateri gozdovi vplivajo na lokalno vreme, ker sproščajo ogromno vlage.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 505,
+    "vsebina": "Ali veš, da imajo nekatere vrste kuščarjev sposobnost hoje po vodi, ker hitro premikajo noge?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 506,
+    "vsebina": "Si vedel, da je bil prvi elektronski kalkulator počasnejši od današnjega telefona, ker je uporabljal velike tranzistorje?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 507,
+    "vsebina": "Neverjetno, da lahko nekatere vrste koral svetijo ponoči, ker vsebujejo fluorescentne beljakovine.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 508,
+    "vsebina": "Ali veš, da imajo netopirji zelo močan imunski sistem, ker prenašajo številne viruse brez bolezni?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 509,
+    "vsebina": "Si vedel, da je bil prvi računalniški zaslon sposoben prikazati le nekaj vrstic besedila, ker je imel nizko ločljivost?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 510,
+    "vsebina": "Neverjetno, da lahko nekateri minerali tvorijo popolne kocke, ker se kristali zlagajo po pravilnih vzorcih.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 511,
+    "vsebina": "Ali veš, da imajo morski konjički sposobnost spreminjanja barve, ker se prilagajajo okolici?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 512,
+    "vsebina": "Si vedel, da je bil prvi internet namenjen raziskovalcem, ker so želeli hitro deliti podatke?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 513,
+    "vsebina": "Neverjetno, da lahko nekatere rastline preživijo v zelo slani vodi, ker izločajo odvečno sol skozi liste.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 514,
+    "vsebina": "Ali veš, da imajo mačke posebne brke za orientacijo, ker zaznavajo spremembe v zraku?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 515,
+    "vsebina": "Si vedel, da je na Merkurju temperatura ponoči izjemno nizka, ker skoraj nima atmosfere?",
+    "kategorija": "Vesolje"
+  },
+  {
+    "id": 516,
+    "vsebina": "Neverjetno, da lahko nekateri slapovi ustvarijo meglico vidno kilometre daleč, ker drobne kapljice odbijajo svetlobo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 517,
+    "vsebina": "Ali veš, da imajo žolne poseben jezik, ki se ovije okoli lobanje, ker blaži udarce pri kljuvanju?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 518,
+    "vsebina": "Si vedel, da je bil prvi mobilni telefon večji od opeke, ker baterije še niso bile majhne?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 519,
+    "vsebina": "Neverjetno, da lahko nekatere vrste alg proizvajajo svetlobo ob valovanju, ker vsebujejo bioluminiscenčne celice.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 520,
+    "vsebina": "Ali veš, da imajo krokodili sposobnost menjave zob več desetkrat, ker jim novi zobje rastejo vse življenje?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 521,
+    "vsebina": "Si vedel, da je bil prvi televizijski zaslon manjši od današnjega telefona, ker tehnologija še ni omogočala večjih zaslonov?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 522,
+    "vsebina": "Neverjetno, da lahko nekatere rastline rastejo v vročih vrelcih, ker so prilagojene ekstremni temperaturi.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 523,
+    "vsebina": "Ali veš, da imajo sloni sposobnost prepoznavanja sebe v ogledalu, ker imajo razvito samozavedanje?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 524,
+    "vsebina": "Si vedel, da je bila prva spletna stran sestavljena samo iz besedila, ker slike še niso bile podprte?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 525,
+    "vsebina": "Neverjetno, da lahko nekateri oceanski tokovi vplivajo na podnebje celin, ker prenašajo toploto po svetu.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 526,
+    "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost ustvarjanja zvokov za komunikacijo, ker vibrirajo mišice ob plavalnem mehurju?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 527,
+    "vsebina": "Si vedel, da je bil prvi digitalni računalnik programiran s kabli, ker programski jeziki še niso obstajali?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 528,
+    "vsebina": "Neverjetno, da lahko nekateri vulkani ustvarijo strele v oblaku pepela, ker trenje med delci ustvari električni naboj.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 529,
+    "vsebina": "Ali veš, da imajo nekatere vrste pajkov sposobnost plavanja, ker zadržujejo zrak okoli telesa?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 530,
+    "vsebina": "Si vedel, da je bil prvi nogomet igran z živalskim mehurjem, ker prave žoge še niso obstajale?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 531,
+    "vsebina": "Neverjetno, da lahko nekatere vrste dreves preživijo tisoče let, ker rastejo zelo počasi in odporne na bolezni.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 532,
+    "vsebina": "Ali veš, da imajo flamingi dolge noge za hojo po plitvi vodi, ker tam iščejo hrano?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 533,
+    "vsebina": "Si vedel, da je bil prvi računalniški virus manjši od današnje slike, ker je imel zelo preprosto kodo?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 534,
+    "vsebina": "Neverjetno, da lahko nekatere rastline proizvajajo strupene snovi, ker se branijo pred rastlinojedci.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 535,
+    "vsebina": "Ali veš, da imajo pingvini sposobnost prepoznavanja partnerja po glasu, ker živijo v ogromnih kolonijah?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 536,
+    "vsebina": "Si vedel, da je bila prva računalniška miška izdelana iz lesa, ker plastika še ni bila standardna?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 537,
+    "vsebina": "Neverjetno, da lahko nekateri slapovi pozimi ustvarijo ledene stolpe, ker voda počasi zamrzne okoli toka.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 538,
+    "vsebina": "Ali veš, da imajo volkovi sposobnost preteči več deset kilometrov na dan, ker so prilagojeni dolgemu lovu?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 539,
+    "vsebina": "Si vedel, da je bil prvi spletni iskalnik zelo preprost seznam datotek, ker splet še ni imel veliko strani?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 540,
+    "vsebina": "Neverjetno, da lahko nekateri oceani ponoči svetijo modro, ker vsebujejo bioluminiscenčne organizme.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 541,
+    "vsebina": "Ali veš, da imajo nekatere vrste čebel sposobnost plesanja za smer, ker tako pokažejo lokacijo hrane?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 542,
+    "vsebina": "Si vedel, da je bil prvi digitalni zemljevid ustvarjen za vojsko, ker so potrebovali natančno navigacijo?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 543,
+    "vsebina": "Neverjetno, da lahko nekatere puščavske rastline preživijo leta brez dežja, ker shranjujejo vodo v tkivih.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 544,
+    "vsebina": "Ali veš, da imajo hobotnice sposobnost regeneracije lovk, ker njihovo telo hitro obnavlja tkivo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 545,
+    "vsebina": "Si vedel, da je bil prvi računalniški procesor počasnejši od današnje ure, ker je imel zelo malo tranzistorjev?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 546,
+    "vsebina": "Neverjetno, da lahko nekateri gozdovi proizvedejo dovolj kisika za milijone ljudi, ker drevesa izvajajo fotosintezo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 547,
+    "vsebina": "Ali veš, da imajo nekatere vrste rib prozorne glave, ker tako lažje opazujejo plen?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 548,
+    "vsebina": "Si vedel, da je bil prvi elektronski računalnik hlajen z ventilatorji velikosti omare, ker se je močno segreval?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 549,
+    "vsebina": "Neverjetno, da lahko nekateri slapovi popolnoma izginejo v sušnem obdobju, ker njihov izvir presahne.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 550,
+    "vsebina": "Ali veš, da imajo morski levi sposobnost spanja v vodi, ker med počitkom uporabljajo plavuti za lebdenje?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 551,
+    "vsebina": "Si vedel, da je bil prvi računalniški zaslon sposoben prikazati samo zelene črke, ker je bila takšna tehnologija najcenejša?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 552,
+    "vsebina": "Neverjetno, da lahko nekatere rastline ustvarijo semena, ki preživijo stoletja, ker ostanejo v stanju mirovanja.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 553,
+    "vsebina": "Ali veš, da imajo kamele sposobnost zapiranja nosnic, ker se tako zaščitijo pred peskom?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 554,
+    "vsebina": "Si vedel, da je bil prvi internetni prenos počasnejši od današnjega pošiljanja fotografije, ker je imel zelo majhno pasovno širino?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 555,
+    "vsebina": "Neverjetno, da lahko nekateri ledeniki premikajo cele doline, ker ogromna masa ledu počasi drsi.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 556,
+    "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost spanja med letenjem, ker polovica možganov ostane budna?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 557,
+    "vsebina": "Si vedel, da je bil prvi spletni video dolg le nekaj sekund, ker internet ni podpiral velikih datotek?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 558,
+    "vsebina": "Neverjetno, da lahko nekatere puščave vsebujejo podzemna jezera, ker voda ostane ujeta pod kamninami.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 559,
+    "vsebina": "Ali veš, da imajo čmrlji sposobnost vibriranja cvetov, ker tako lažje sprostijo cvetni prah?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 560,
+    "vsebina": "Si vedel, da je bil prvi računalniški disk zamenljiv šele po več letih razvoja, ker so bili sistemi zelo veliki?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 561,
+    "vsebina": "Neverjetno, da lahko nekateri vulkani pod morjem ustvarijo nove otoke, ker se lava kopiči nad gladino.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 562,
+    "vsebina": "Ali veš, da imajo delfini sposobnost prepoznavanja lastnega odseva, ker imajo razvito samozavedanje?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 563,
+    "vsebina": "Si vedel, da je bil prvi računalniški tiskalnik glasnejši od sesalca, ker je uporabljal mehanske udarce?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 564,
+    "vsebina": "Neverjetno, da lahko nekatere vrste dreves rastejo iz štorov, ker korenine ostanejo žive po poseku.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 565,
+    "vsebina": "Ali veš, da imajo nekatere vrste kač sposobnost zaznavanja potresov, ker čutijo vibracije tal?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 566,
+    "vsebina": "Si vedel, da je bil prvi računalniški program napisan brez zaslona, ker so rezultate tiskali na papir?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 567,
+    "vsebina": "Neverjetno, da lahko nekateri oblaki povzročijo točo velikosti teniške žogice, ker močni vetrovi dvigujejo ledene delce.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 568,
+    "vsebina": "Ali veš, da imajo žirafe zelo visok krvni tlak, ker morajo potiskati kri do glave?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 569,
+    "vsebina": "Si vedel, da je bil prvi računalniški zvok ustvarjen z enostavnim piskom, ker zvočne kartice še niso obstajale?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 570,
+    "vsebina": "Neverjetno, da lahko nekateri slapovi tečejo rdeče, ker voda vsebuje veliko železa.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 571,
+    "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost menjave spola večkrat v življenju, ker se prilagajajo skupini?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 572,
+    "vsebina": "Si vedel, da je bil prvi elektronski zemljevid ustvarjen za vesoljske misije, ker so potrebovali natančne izračune?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 573,
+    "vsebina": "Neverjetno, da lahko nekateri gozdovi preživijo poplave več mesecev, ker imajo drevesa prilagojene korenine.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 574,
+    "vsebina": "Ali veš, da imajo pingvini sposobnost drsenja po trebuhu, ker tako prihranijo energijo?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 575,
+    "vsebina": "Si vedel, da je bil prvi računalniški procesor izdelan ročno, ker avtomatizirana proizvodnja še ni obstajala?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 576,
+    "vsebina": "Neverjetno, da lahko nekatere rastline oddajajo vonj po gnilobi, ker privabljajo posebne opraševalce.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 577,
+    "vsebina": "Ali veš, da imajo nekatere vrste mravelj lastne 'vojake', ker branijo kolonijo pred napadi?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 578,
+    "vsebina": "Si vedel, da je bil prvi računalniški disk izdelan iz več kovinskih plošč, ker so želeli povečati kapaciteto?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 579,
+    "vsebina": "Neverjetno, da lahko nekateri ledeniki ustvarijo modre jame, ker led filtrira svetlobo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 580,
+    "vsebina": "Ali veš, da imajo flamingi sposobnost filtriranja hrane iz vode, ker imajo poseben kljun?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 581,
+    "vsebina": "Si vedel, da je bil prvi računalniški pomnilnik narejen iz magnetnih obročev, ker so shranjevali bite z magnetizmom?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 582,
+    "vsebina": "Neverjetno, da lahko nekateri slapovi ustvarijo ledene mostove, ker voda zamrzne v plasteh.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 583,
+    "vsebina": "Ali veš, da imajo nekatere vrste sov sposobnost lova v popolni temi, ker imajo izjemno občutljiv sluh?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 584,
+    "vsebina": "Si vedel, da je bil prvi računalniški virus razširjen po univerzah, ker so si študenti izmenjavali diskete?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 585,
+    "vsebina": "Neverjetno, da lahko nekatere rastline rastejo na drugih rastlinah, ker uporabljajo drevesa kot oporo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 586,
+    "vsebina": "Ali veš, da imajo delfini sposobnost zdravljenja poškodb brez okužb, ker njihova koža vsebuje antibakterijske lastnosti?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 587,
+    "vsebina": "Si vedel, da je bil prvi elektronski računalnik programiran s preklapljanjem kablov, ker ni imel operacijskega sistema?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 588,
+    "vsebina": "Neverjetno, da lahko nekateri oceanski valovi dosežejo višino večnadstropne stavbe, ker jih ustvarijo močne nevihte.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 589,
+    "vsebina": "Ali veš, da imajo nekatere vrste ptic sposobnost navigacije po zvezdah, ker ponoči uporabljajo nebo kot zemljevid?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 590,
+    "vsebina": "Si vedel, da je bil prvi internetni brskalnik brez slik, ker povezave niso podpirale velikih datotek?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 591,
+    "vsebina": "Neverjetno, da lahko nekatere vrste dreves ustvarijo naravne mostove, ker korenine rastejo čez reke.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 592,
+    "vsebina": "Ali veš, da imajo morski psi sposobnost zaznavanja srčnega utripa plena, ker čutijo električne impulze?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 593,
+    "vsebina": "Si vedel, da je bil prvi računalniški program napisan brez tipkovnice, ker so podatke vnašali s stikali?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 594,
+    "vsebina": "Neverjetno, da lahko nekateri slapovi tečejo pod ledom, ker voda ostane tekoča pod zaščitno plastjo.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 595,
+    "vsebina": "Ali veš, da imajo nekatere vrste rib sposobnost napihovanja telesa, ker se tako branijo pred plenilci?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 596,
+    "vsebina": "Si vedel, da je bil prvi športni stadion brez sedežev, ker so gledalci stali okoli igrišča?",
+    "kategorija": "Šport"
+  },
+  {
+    "id": 597,
+    "vsebina": "Neverjetno, da lahko nekatere puščavske rastline cvetijo le nekaj ur, ker hitro izkoristijo vlago.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 598,
+    "vsebina": "Ali veš, da imajo nekatere vrste rakov sposobnost hoje vstran, ker so njihovi sklepi drugače obrnjeni?",
+    "kategorija": "Živali"
+  },
+  {
+    "id": 599,
+    "vsebina": "Si vedel, da je bil prvi računalniški disk shranjen v posebni klimatizirani sobi, ker je bil občutljiv na temperaturo?",
+    "kategorija": "Tehnologija"
+  },
+  {
+    "id": 600,
+    "vsebina": "Neverjetno, da lahko nekateri gozdovi preživijo vulkanske izbruhe, ker debela skorja zaščiti drevesa pred vročino.",
+    "kategorija": "Narava"
+  },
+  {
+    "id": 601,
+    "vsebina": "Naša aplikacija za svoje delovanje uporablja bazo na spletu, ki smo jo ustvarili za shranjevanje dejstev. Ta baza je javno dostopna in jo lahko uporablja vsak!",
+    "kategorija": "Splošno"
+  },
+  {
+    "id": 602,
+    "vsebina": "to je test št 4!",
+    "kategorija": "UGC"
+  }
 ]
